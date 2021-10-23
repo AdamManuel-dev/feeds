@@ -1,121 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-10-23T07:10:30.728Z</updated>
+    <id>https://muratbuffalo.blogspot.com/</id>
+    <title>Distributed Systems Blog</title>
+    <updated>2021-10-23T07:10:30.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://muratbuffalo.blogspot.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021 Cumbre Vieja volcanic eruption (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/2021_Cumbre_Vieja_volcanic_eruption</id>
-        <link href="https://en.wikipedia.org/wiki/2021_Cumbre_Vieja_volcanic_eruption"/>
-        <updated>2021-10-23T07:10:23.569Z</updated>
-        <content type="html"><![CDATA[... that more than 22,000 earthquakes occurred in the eight days before the <b><a href="/wiki/2021_Cumbre_Vieja_volcanic_eruption" title="2021 Cumbre Vieja volcanic eruption">2021 Cumbre Vieja volcanic eruption</a></b> <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sophie Drakeford-Lewis (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Sophie_Drakeford-Lewis</id>
-        <link href="https://en.wikipedia.org/wiki/Sophie_Drakeford-Lewis"/>
-        <updated>2021-10-23T07:10:23.570Z</updated>
-        <content type="html"><![CDATA[... that English netball player <b><a href="/wiki/Sophie_Drakeford-Lewis" title="Sophie Drakeford-Lewis">Sophie Drakeford-Lewis</a></b> was once the highest ranked British youth tennis player?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suohpanterror (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Suohpanterror</id>
-        <link href="https://en.wikipedia.org/wiki/Suohpanterror"/>
-        <updated>2021-10-23T07:10:23.571Z</updated>
-        <content type="html"><![CDATA[... that artist-activist group <b><a href="/wiki/Suohpanterror" title="Suohpanterror">Suohpanterror</a></b> remixed the "<a href="/wiki/We_Can_Do_It!" title="We Can Do It!">We Can Do It!</a>" Rosie the Riveter poster to signify <a href="/wiki/S%C3%A1mi_people" title="Sámi people">Sámi</a> feminism?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fishponds of the Třeboň Basin (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Fishponds_of_the_T%C5%99ebo%C5%88_Basin</id>
-        <link href="https://en.wikipedia.org/wiki/Fishponds_of_the_T%C5%99ebo%C5%88_Basin"/>
-        <updated>2021-10-23T07:10:23.573Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Charles_IV,_Holy_Roman_Emperor" title="Charles IV, Holy Roman Emperor">Charles IV</a> commanded the significant expansion of the <b><a href="/wiki/Fishponds_of_the_T%C5%99ebo%C5%88_Basin" title="Fishponds of the Třeboň Basin">fishponds of the Třeboň Basin</a></b> "so that the kingdom would abound in fish and mist"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KVOF-TV (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/KVOF-TV</id>
-        <link href="https://en.wikipedia.org/wiki/KVOF-TV"/>
-        <updated>2021-10-23T07:10:23.577Z</updated>
-        <content type="html"><![CDATA[... that when <a href="/wiki/Gene_Scott" title="Gene Scott">Gene Scott</a> was forced to close <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a> TV station <b><a href="/wiki/KVOF-TV" title="KVOF-TV"><span class="nowrap">KVOF-TV</span></a></b>, he called <a href="/wiki/KCNS" title="KCNS">its successor</a> "the Tower of Babel religious brigade"—then proceeded to buy air time on it?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railroad and Bank Building (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Railroad_and_Bank_Building</id>
-        <link href="https://en.wikipedia.org/wiki/Railroad_and_Bank_Building"/>
-        <updated>2021-10-23T07:10:23.578Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Railroad_and_Bank_Building" title="Railroad and Bank Building">Railroad and Bank Building</a></b> was built with six miles (9.7&nbsp;km) of <a href="/wiki/Pneumatic_tube" title="Pneumatic tube">pneumatic tubes</a> used to send items anywhere within the building in under ten seconds?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kelmscott Press (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Kelmscott_Press</id>
-        <link href="https://en.wikipedia.org/wiki/Kelmscott_Press"/>
-        <updated>2021-10-23T07:10:23.578Z</updated>
-        <content type="html"><![CDATA[... that in the <b><a href="/wiki/Kelmscott_Press" title="Kelmscott Press">Kelmscott Press</a></b><span class="nowrap">'s</span> acclaimed <i>Complete Works of Chaucer</i>, illustrator Burne-Jones depicts a house "made of twigges" in an unusually literal style?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beer Beer, Truck Truck (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Beer_Beer,_Truck_Truck</id>
-        <link href="https://en.wikipedia.org/wiki/Beer_Beer,_Truck_Truck"/>
-        <updated>2021-10-23T07:10:23.578Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Country_music" title="Country music">country song</a> "<b><a href="/wiki/Beer_Beer,_Truck_Truck" title="Beer Beer, Truck Truck">Beer Beer, Truck Truck</a></b>" was based on a viral <a href="/wiki/TikTok" title="TikTok">TikTok</a> video by <b><a href="/wiki/Erynn_Chambers" title="Erynn Chambers">Erynn Chambers</a></b> intended to satirize country music?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Dongcheng (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Beijing/Central_Dongcheng</id>
-        <link href="https://en.wikivoyage.org/wiki/Beijing/Central_Dongcheng"/>
-        <updated>2021-10-01T17:44:48.997Z</updated>
-        <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r3732050">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output .interactiveIcon{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:40%">
-		<h2><span class="mw-headline" id="Central_Dongcheng"><a href="/wiki/Beijing/Central_Dongcheng" title="Beijing/Central Dongcheng">Central Dongcheng</a></span></h2>
-		<h3><span class="mw-headline" id="Destination_of_the_month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the month</a></span></h3>
-		<div class="quote"><a href="/wiki/Beijing/Central_Dongcheng" title="Beijing/Central Dongcheng">From Tiananmen Square to Wangfujing street, much that draws visitors to Beijing can be found in Dongcheng.</a></div>
-	</div>
-<p>	<img alt="Beijing/Central Dongcheng" src="//upload.wikimedia.org/wikivoyage/en/thumb/0/04/DongchengBanner1.jpg/1700px-DongchengBanner1.jpg" decoding="async" title="Beijing/Central Dongcheng" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/0/04/DongchengBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567">
-</p>
-	<a href="/wiki/Beijing/Central_Dongcheng" title="Beijing/Central Dongcheng"><img alt="Beijing/Central Dongcheng" src="//upload.wikimedia.org/wikivoyage/en/thumb/0/04/DongchengBanner1.jpg/1700px-DongchengBanner1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/0/04/DongchengBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567"></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chavín de Huántar (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar</id>
-        <link href="https://en.wikivoyage.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar"/>
-        <updated>2021-10-11T17:46:01.781Z</updated>
-        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:40%">
-		<h2><span id="Chav.C3.ADn_de_Hu.C3.A1ntar"></span><span class="mw-headline" id="Chavín_de_Huántar"><a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar">Chavín de Huántar</a></span></h2>
-		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></span></h3>
-		<div class="quote"><a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar">Explore the ancient Chavín culture and the Andean cuisine and admire great views in this little town that millenia ago was an important ceremonial site.</a></div>
-	</div>
-<p>	<img alt="Chavín de Huántar" src="//upload.wikimedia.org/wikipedia/commons/d/d2/Chav%C3%ADn_de_Hu%C3%A1ntar_main_page_banner.jpg" decoding="async" title="Chavín de Huántar" class="nolink" data-file-width="1700" data-file-height="567" width="1700" height="567">
-</p>
-	<a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar"><img alt="Chavín de Huántar" src="//upload.wikimedia.org/wikipedia/commons/d/d2/Chav%C3%ADn_de_Hu%C3%A1ntar_main_page_banner.jpg" decoding="async" data-file-width="1700" data-file-height="567" width="1700" height="567"></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arriving in a new city (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Arriving_in_a_new_city</id>
-        <link href="https://en.wikivoyage.org/wiki/Arriving_in_a_new_city"/>
-        <updated>2021-10-22T05:36:36.934Z</updated>
-        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:40%">
-		<h2><span class="mw-headline" id="Arriving_in_a_new_city"><a href="/wiki/Arriving_in_a_new_city" title="Arriving in a new city">Arriving in a new city</a></span></h2>
-		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_Travel_Topics" class="mw-redirect" title="Previous Featured Travel Topics">Featured Travel Topic</a></span></h3>
-		<div class="quote"><a href="/wiki/Arriving_in_a_new_city" title="Arriving in a new city">Do you often find it intimidating to arrive in a new, strange place? Here are some useful tips for you.</a></div>
-	</div>
-<p>	<img alt="Arriving in a new city" src="//upload.wikimedia.org/wikivoyage/en/7/79/Arriving_in_a_New_City_FTT_2.jpg" decoding="async" title="Arriving in a new city" class="nolink" data-file-width="1700" data-file-height="567" width="1700" height="567">
-</p>
-	<a href="/wiki/Arriving_in_a_new_city" title="Arriving in a new city"><img alt="Arriving in a new city" src="//upload.wikimedia.org/wikivoyage/en/7/79/Arriving_in_a_New_City_FTT_2.jpg" decoding="async" data-file-width="1700" data-file-height="567" width="1700" height="567"></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linearizability (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[Linearizability]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/10/linearizability.html</id>
         <link href="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"/>
         <updated>2021-10-23T07:10:30.082Z</updated>
@@ -274,7 +165,7 @@ Read more
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3 (SOSP21) (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3 (SOSP21)]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/10/using-lightweight-formal-methods-to.html</id>
         <link href="https://muratbuffalo.blogspot.com/2021/10/using-lightweight-formal-methods-to.html"/>
         <updated>2021-10-23T07:10:30.086Z</updated>
@@ -436,7 +327,7 @@ Read more
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Book review: Fountainhead (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[Book review: Fountainhead]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/09/book-review-fountainhead.html</id>
         <link href="https://muratbuffalo.blogspot.com/2021/09/book-review-fountainhead.html"/>
         <updated>2021-10-23T07:10:30.087Z</updated>
@@ -595,7 +486,7 @@ Read more
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matchmaker Paxos: A Reconfigurable Consensus Protocol (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[Matchmaker Paxos: A Reconfigurable Consensus Protocol]]></title>
         <id>https://muratbuffalo.blogspot.com/2020/05/matchmaker-paxos-reconfigurable.html</id>
         <link href="https://muratbuffalo.blogspot.com/2020/05/matchmaker-paxos-reconfigurable.html"/>
         <updated>2021-10-23T07:10:30.087Z</updated>
@@ -757,7 +648,7 @@ Read more
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There is plenty of room at the bottom (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[There is plenty of room at the bottom]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html</id>
         <link href="https://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html"/>
         <updated>2021-10-23T07:10:30.088Z</updated>
@@ -919,7 +810,7 @@ Read more
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do tightly synchronized clocks help consensus? (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[Do tightly synchronized clocks help consensus?]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/08/does-tightly-synchronized-clocks-help.html</id>
         <link href="https://muratbuffalo.blogspot.com/2021/08/does-tightly-synchronized-clocks-help.html"/>
         <updated>2021-10-23T07:10:30.090Z</updated>
@@ -1081,7 +972,7 @@ Read more
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Progress beats perfect (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[Progress beats perfect]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/08/progress-beats-perfect.html</id>
         <link href="https://muratbuffalo.blogspot.com/2021/08/progress-beats-perfect.html"/>
         <updated>2021-10-23T07:10:30.091Z</updated>
@@ -1243,7 +1134,7 @@ Read more
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humans of Computer Systems: Frenchie (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[Humans of Computer Systems: Frenchie]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/07/humans-of-computer-systems-frenchie.html</id>
         <link href="https://muratbuffalo.blogspot.com/2021/07/humans-of-computer-systems-frenchie.html"/>
         <updated>2021-10-23T07:10:30.093Z</updated>
@@ -1402,7 +1293,7 @@ Read more
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humans of Computer Systems: Goku (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[Humans of Computer Systems: Goku]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/07/humans-of-computer-systems-goku.html</id>
         <link href="https://muratbuffalo.blogspot.com/2021/07/humans-of-computer-systems-goku.html"/>
         <updated>2021-10-23T07:10:30.096Z</updated>
@@ -1561,7 +1452,7 @@ Read more
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humans of Computer Systems: IndianDev (Distributed Systems Blog)]]></title>
+        <title type="html"><![CDATA[Humans of Computer Systems: IndianDev]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/06/humans-of-computer-systems-indiandev.html</id>
         <link href="https://muratbuffalo.blogspot.com/2021/06/humans-of-computer-systems-indiandev.html"/>
         <updated>2021-10-23T07:10:30.097Z</updated>
