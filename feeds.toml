@@ -12,7 +12,7 @@ entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
 
-[Metadata] # test
+[metadata] # test
 title = "Distributed Systems Blog"
 url = "https://muratbuffalo.blogspot.com/"
 entrySelector = "#main > #page_body > #Blog1 > .blog-posts > .post-outer-container  > article > div > div > div.container.post-body.entry-content"
