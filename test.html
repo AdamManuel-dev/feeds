@@ -1,0 +1,289 @@
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "http://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+    },
+    "headline": "Linearizability",
+    "description": "Distributed/networked systems employ data replication to achieve availability and scalability. Consistency  is concerned with the question o...",
+    "datePublished": "2021-10-06T22:02:00-04:00",
+    "dateModified": "2021-10-07T07:49:12-04:00",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti_rBAs9yMYOFBujxriJRZ-A=w1200",
+      "height": 348,
+      "width": 1200
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Blogger",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti_rBAs9yMYOFBujxriJRZ-A=h60",
+        "width": 206,
+        "height": 60
+      }
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Murat"
+    }
+  }
+</script>
+<a name="8467295228880233718"></a>
+<h3 class="post-title entry-title">
+  <a href="https://muratbuffalo.blogspot.com/2021/10/linearizability.html">
+    Linearizability</a
+  >
+</h3>
+<div class="post-share-buttons post-share-buttons-top">
+  <div class="byline post-share-buttons goog-inline-block">
+    <div
+      aria-owns="sharing-popup-Blog1-byline-8467295228880233718"
+      class="sharing"
+      data-title=" Linearizability"
+    >
+      <button
+        aria-controls="sharing-popup-Blog1-byline-8467295228880233718"
+        aria-label="Share"
+        class="sharing-button touch-icon-button"
+        id="sharing-button-Blog1-byline-8467295228880233718"
+        role="button"
+        aria-expanded="false"
+        aria-haspopup="true"
+      >
+        <div class="flat-icon-button ripple">
+          <svg class="svg-icon-24">
+            <use
+              xlink:href="/responsive/sprite_v1_6.css.svg#ic_share_black_24dp"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            ></use>
+          </svg>
+        </div>
+      </button>
+      <div class="share-buttons-container">
+        <ul
+          aria-hidden="true"
+          aria-label="Share"
+          class="share-buttons hidden"
+          id="sharing-popup-Blog1-byline-8467295228880233718"
+          role="menu"
+        >
+          <li>
+            <span
+              aria-label="Get link"
+              class="sharing-platform-button sharing-element-link"
+              data-href="https://www.blogger.com/share-post.g?blogID=8436330762136344379&amp;postID=8467295228880233718&amp;target="
+              data-url="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+              role="menuitem"
+              tabindex="-1"
+              title="Get link"
+            >
+              <svg class="svg-icon-24 touch-icon sharing-link">
+                <use
+                  xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_link_dark"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                ></use>
+              </svg>
+              <span class="platform-sharing-text">Get link</span>
+            </span>
+          </li>
+          <li>
+            <span
+              aria-label="Share to Facebook"
+              class="sharing-platform-button sharing-element-facebook"
+              data-href="https://www.blogger.com/share-post.g?blogID=8436330762136344379&amp;postID=8467295228880233718&amp;target=facebook"
+              data-url="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+              role="menuitem"
+              tabindex="-1"
+              title="Share to Facebook"
+            >
+              <svg class="svg-icon-24 touch-icon sharing-facebook">
+                <use
+                  xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                ></use>
+              </svg>
+              <span class="platform-sharing-text">Facebook</span>
+            </span>
+          </li>
+          <li>
+            <span
+              aria-label="Share to Twitter"
+              class="sharing-platform-button sharing-element-twitter"
+              data-href="https://www.blogger.com/share-post.g?blogID=8436330762136344379&amp;postID=8467295228880233718&amp;target=twitter"
+              data-url="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+              role="menuitem"
+              tabindex="-1"
+              title="Share to Twitter"
+            >
+              <svg class="svg-icon-24 touch-icon sharing-twitter">
+                <use
+                  xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                ></use>
+              </svg>
+              <span class="platform-sharing-text">Twitter</span>
+            </span>
+          </li>
+          <li>
+            <span
+              aria-label="Share to Pinterest"
+              class="sharing-platform-button sharing-element-pinterest"
+              data-href="https://www.blogger.com/share-post.g?blogID=8436330762136344379&amp;postID=8467295228880233718&amp;target=pinterest"
+              data-url="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+              role="menuitem"
+              tabindex="-1"
+              title="Share to Pinterest"
+            >
+              <svg class="svg-icon-24 touch-icon sharing-pinterest">
+                <use
+                  xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                ></use>
+              </svg>
+              <span class="platform-sharing-text">Pinterest</span>
+            </span>
+          </li>
+          <li>
+            <span
+              aria-label="Email"
+              class="sharing-platform-button sharing-element-email"
+              data-href="https://www.blogger.com/share-post.g?blogID=8436330762136344379&amp;postID=8467295228880233718&amp;target=email"
+              data-url="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+              role="menuitem"
+              tabindex="-1"
+              title="Email"
+            >
+              <svg class="svg-icon-24 touch-icon sharing-email">
+                <use
+                  xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_email_dark"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                ></use>
+              </svg>
+              <span class="platform-sharing-text">Email</span>
+            </span>
+          </li>
+          <li aria-hidden="true" class="hidden">
+            <span
+              aria-label="Share to other apps"
+              class="sharing-platform-button sharing-element-other"
+              data-url="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+              role="menuitem"
+              tabindex="-1"
+              title="Share to other apps"
+            >
+              <svg class="svg-icon-24 touch-icon sharing-sharingOther">
+                <use
+                  xlink:href="/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                ></use>
+              </svg>
+              <span class="platform-sharing-text">Other Apps</span>
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="post-header">
+  <div class="post-header-line-1">
+    <span class="byline post-timestamp">
+      -
+      <meta
+        content="http://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+      />
+      <a
+        class="timestamp-link"
+        href="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+        rel="bookmark"
+        title="permanent link"
+      >
+        <time
+          class="published"
+          datetime="2021-10-06T22:02:00-04:00"
+          title="2021-10-06T22:02:00-04:00"
+        >
+          October 06, 2021
+        </time>
+      </a>
+    </span>
+  </div>
+</div>
+<div
+  class="container post-body entry-content"
+  id="post-snippet-8467295228880233718"
+>
+  <div class="post-snippet snippet-container r-snippet-container">
+    <div class="snippet-item r-snippetized">
+      Distributed/networked systems employ data replication to achieve
+      availability and scalability. Consistency is concerned with the question
+      of what should happen if a client modifies some data items and
+      concurrently another client reads or modifies the same items possibly at a
+      different replica. Linearizability is a strong form of consistency. (That
+      is why it is also called as strong-consistency.) For a system to satisfy
+      linearizability,&nbsp; each operation must appear (from client
+      perspective) to occur at an instantaneous point between its start time
+      (when the client submits it) and finish time (when the client receives the
+      response), and&nbsp; execution at these instantaneous points should form a
+      valid sequential execution (i.e., it should be as if operations are
+      executed one at a time ---without concurrency, like they are being
+      executed by a single node)&nbsp; Let's simplify things further. In
+      practice, consistency is often defined for systems that have two very
+      specific operations: read and w
+    </div>
+    <a
+      class="snippet-fade r-snippet-fade"
+      href="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+    ></a>
+  </div>
+</div>
+<div class="post-bottom">
+  <div class="post-footer float-container">
+    <div class="post-footer-line post-footer-line-1">
+      <span class="byline post-comment-link container">
+        <a
+          class="comment-link"
+          href="https://www.blogger.com/comment.g?blogID=8436330762136344379&amp;postID=8467295228880233718"
+          onclick=""
+        >
+          <svg class="svg-icon-24 touch-icon">
+            <use
+              xlink:href="/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            ></use>
+          </svg>
+          <span class="num_comments"> Post a Comment </span>
+        </a>
+      </span>
+      <span class="byline post-icons">
+        <span class="item-action">
+          <a
+            href="https://www.blogger.com/email-post.g?blogID=8436330762136344379&amp;postID=8467295228880233718"
+            title="Email Post"
+          >
+            <svg class="svg-icon-24 touch-icon sharing-icon">
+              <use
+                xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_email_dark"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+              ></use>
+            </svg>
+          </a>
+        </span>
+      </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2"></div>
+    <div class="post-footer-line post-footer-line-3"></div>
+  </div>
+  <div class="jump-link flat-button ripple">
+    <a
+      href="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"
+      title=" Linearizability"
+    >
+      Read more
+    </a>
+  </div>
+</div>

@@ -1,20 +1,28 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
-
-[metadata] # test
+[metadata]
 title = "Distributed Systems Blog"
 url = "https://muratbuffalo.blogspot.com/"
-entrySelector = "#main > #page_body > #Blog1 > .blog-posts > .post-outer-container  > article > div > div > div.container.post-body.entry-content"
-titleSelector = ".post-outer > .post > .post-title > a"
-linkSelector = ".post-outer > .post > .post-bottom > .jump-link > a"
+timeout = 300
+entrySelector = "#main > #page_body > #Blog1 > .blog-posts > .post-outer-container > .post-outer > .post"
+titleSelector = ".post-title > a"
+linkSelector = ".post-bottom > .jump-link > a"
+dateSelector = ".post-header > .post-header-line-1 > .byline > .timestamp-link > time"
+contentSelector = ".container > .post-snippet > .snippet-item"
+
+[neverworkintheory]
+title = "Most Recent It Will Never Work in Theory"
+url = "https://neverworkintheory.org/"
+timeout = 300
+entrySelector = "body > .container > main > .page"
+titleSelector = "p:nth-child(3) > strong > a"
+contentSelector = "p:nth-child(4)"
+linkSelector =  "p:nth-child(3) > strong > a"
+
+[quanta-math]
+title = "Quanta: Mathematics"
+url = "https://www.quantamagazine.org/mathematics/"
+timeout = 300
+entrySelector = ".mha > .cws > .cws__content > div > .card"
+titleSelector = ".card__content > a > h2"
+contentSelector = ".card__excerpt > p"
+linkSelector = ".card__content > a"
+dateSelector = ".card__content > .card__meta > .card-date > div"
