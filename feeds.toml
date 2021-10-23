@@ -44,39 +44,3 @@ titleSelector = ".card__content > a > h2"
 contentSelector = ".card__excerpt > p"
 linkSelector = ".card__content > a"
 dateSelector = ".card__content > .card__meta > .card-date > div"
-
-[azure-big-data]
-title = "Azure: Big Data"
-url = "https://azure.microsoft.com/en-us/blog/topics/big-data/"
-entrySelector = "#main > section > div.row.row-size2 > div.column.medium-8 > div:nth-child(1) > div > div > article"
-titleSelector = "h2 > a"
-contentSelector = "p:nth-child(3)"
-linkSelector = "h2 > a"
-dateSelector = "p"
-
-[azure-serverless]
-title = "Azure: Serverless"
-url = "https://azure.microsoft.com/en-us/blog/topics/serverless"
-entrySelector = "#main > section > div.row.row-size2 > div.column.medium-8 > div:nth-child(1) > div > div > article"
-titleSelector = "h2 > a"
-contentSelector = "p:nth-child(3)"
-linkSelector = "h2 > a"
-dateSelector = "p"
-
-[azure-database]
-title = "Azure: Database"
-url = "https://azure.microsoft.com/en-us/blog/topics/database"
-entrySelector = "#main > section > div.row.row-size2 > div.column.medium-8 > div:nth-child(1) > div > div > article"
-titleSelector = "h2 > a"
-contentSelector = "p:nth-child(3)"
-linkSelector = "h2 > a"
-dateSelector = "p"
-
-[azure-cloud-strategy]
-title = "Azure: Cloud Strategy"
-url = "https://azure.microsoft.com/en-us/blog/topics/cloud-strategy"
-entrySelector = "#main > section > div.row.row-size2 > div.column.medium-8 > div:nth-child(1) > div > div > article"
-titleSelector = "h2 > a"
-contentSelector = "p:nth-child(3)"
-linkSelector = "h2 > a"
-dateSelector = "p"
