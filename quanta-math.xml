@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.quantamagazine.org/mathematics/</id>
+    <title>Quanta: Mathematics</title>
+    <updated>2021-10-23T09:20:06.770Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[How Wavelets Allow Researchers to Transform, and Understand, Data]]></title>
+        <id>https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/</id>
+        <link href="https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/"/>
+        <updated>2021-10-23T09:19:55.964Z</updated>
+        <content type="html"><![CDATA[Built upon the ubiquitous Fourier transform, the mathematical tools known as wavelets allow unprecedented analysis and understanding of continuous signals.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Prove Melting Ice Stays Smooth]]></title>
+        <id>https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/</id>
+        <link href="https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/"/>
+        <updated>2021-10-23T09:19:55.965Z</updated>
+        <content type="html"><![CDATA[After decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Topology, When Are Two Shapes the Same?]]></title>
+        <id>https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/</id>
+        <link href="https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/"/>
+        <updated>2021-10-23T09:19:55.967Z</updated>
+        <content type="html"><![CDATA[As topologists seek to classify shapes, the effort hinges on how to define a manifold and what it means for two of them to be equivalent.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Simple Math Behind the Mighty Roots of Unity]]></title>
+        <id>https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20210923/</id>
+        <link href="https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20210923/"/>
+        <updated>2021-10-23T09:19:55.969Z</updated>
+        <content type="html"><![CDATA[Solutions to the simplest polynomial equations — called “roots of unity” — have an elegant structure that mathematicians still use to study some of math’s greatest open questions.]]></content>
+    </entry>
+</feed>

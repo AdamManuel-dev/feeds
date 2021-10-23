@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://neverworkintheory.org/</id>
+    <title>Most Recent It Will Never Work in Theory</title>
+    <updated>2021-10-23T09:20:06.762Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://neverworkintheory.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-10-21: The Impact of Sleep Deprivation]]></title>
+        <id>https://neverworkintheory.org/2021/10/21/the-impact-of-sleep-deprivation.html</id>
+        <link href="https://neverworkintheory.org/2021/10/21/the-impact-of-sleep-deprivation.html"/>
+        <updated>2021-10-23T09:19:50.931Z</updated>
+        <content type="html"><![CDATA[Last month we wrote that we wouldn't review any more papers on test-driven development, but Fucci2020 isn't really about TDD. Instead, the authors measured how well students wrote tests in order to gauge the effects of going a night without sleep. By comparing those who slept with those who didn't, they found that a single sleepless night reduced code quality by 50%. This is consistent with what we know from a century of other studies (see here for a short summary, and here for a shorter one); I don't expect companies or universities will suddenly start paying attention to the...]]></content>
+    </entry>
+</feed>

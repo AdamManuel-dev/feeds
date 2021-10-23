@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.quantamagazine.org/computer-science/</id>
+    <title>Quanta: Computer Science</title>
+    <updated>2021-10-23T09:20:06.776Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The Uselessness of Useful Knowledge]]></title>
+        <id>https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/</id>
+        <link href="https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/"/>
+        <updated>2021-10-23T09:20:01.063Z</updated>
+        <content type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuron Bursts Can Mimic Famous AI Learning Strategy]]></title>
+        <id>https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/</id>
+        <link href="https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/"/>
+        <updated>2021-10-23T09:20:01.064Z</updated>
+        <content type="html"><![CDATA[A new model of learning centers on bursts of neural activity that act as teaching signals — approximating backpropagation, the algorithm behind learning in AI.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Link to an Old Model Could Crack the Mystery of Deep Learning]]></title>
+        <id>https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/</id>
+        <link href="https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/"/>
+        <updated>2021-10-23T09:20:01.066Z</updated>
+        <content type="html"><![CDATA[To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major Quantum Computing Strategy Suffers Serious Setbacks]]></title>
+        <id>https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/</id>
+        <link href="https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/"/>
+        <updated>2021-10-23T09:20:01.067Z</updated>
+        <content type="html"><![CDATA[So-called topological quantum computing would avoid many of the problems that stand in the way of full-scale quantum computers. But high-profile missteps have led some experts to question whether the field is fooling itself.]]></content>
+    </entry>
+</feed>

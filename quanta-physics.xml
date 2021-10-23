@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.quantamagazine.org/physics/</id>
+    <title>Quanta: Physics</title>
+    <updated>2021-10-23T09:20:06.774Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The Uselessness of Useful Knowledge]]></title>
+        <id>https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/</id>
+        <link href="https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/"/>
+        <updated>2021-10-23T09:20:06.080Z</updated>
+        <content type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Hint of Dark Matter Sends Physicists Looking to the Skies]]></title>
+        <id>https://www.quantamagazine.org/a-hint-of-dark-matter-sends-physicists-looking-to-the-skies-20211019/</id>
+        <link href="https://www.quantamagazine.org/a-hint-of-dark-matter-sends-physicists-looking-to-the-skies-20211019/"/>
+        <updated>2021-10-23T09:20:06.083Z</updated>
+        <content type="html"><![CDATA[After a search of neutron stars finds preliminary evidence for hypothetical dark matter particles called axions, astrophysicists are devising new ways to spot them.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Astronomer Who’s About to See the Skies of Other Earths]]></title>
+        <id>https://www.quantamagazine.org/with-a-new-space-telescope-laura-kreidberg-will-probe-exoplanet-skies-20211012/</id>
+        <link href="https://www.quantamagazine.org/with-a-new-space-telescope-laura-kreidberg-will-probe-exoplanet-skies-20211012/"/>
+        <updated>2021-10-23T09:20:06.085Z</updated>
+        <content type="html"><![CDATA[After the ultra-powerful James Webb Space Telescope launches later this year, Laura Kreidberg will lead two efforts to check the weather on rocky planets orbiting other stars.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work on Earth’s Climate and Other Complex Systems Earns Nobel Prize in Physics]]></title>
+        <id>https://www.quantamagazine.org/pioneering-climate-modelers-earn-nobel-prize-in-physics-20211005/</id>
+        <link href="https://www.quantamagazine.org/pioneering-climate-modelers-earn-nobel-prize-in-physics-20211005/"/>
+        <updated>2021-10-23T09:20:06.086Z</updated>
+        <content type="html"><![CDATA[Syukuro Manabe and Klaus Hasselmann have been honored for their work that led to reliable predictions of the effects of climate change. They will share the Nobel with Giorgio Parisi, who has made pioneering studies of chaotic physical systems.]]></content>
+    </entry>
+</feed>
