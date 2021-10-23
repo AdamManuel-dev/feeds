@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[Metadata] # test
+title = "Distributed Systems Blog"
+url = "https://muratbuffalo.blogspot.com/"
+entrySelector = "#main > #page_body > #Blog1 > .blog-posts > .post-outer-container"
+titleSelector = ".post-outer > .post > .post-title > a"
+linkSelector = ".post-outer > .post > .post-bottom > .jump-link > a"
