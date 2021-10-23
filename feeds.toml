@@ -15,6 +15,6 @@ linkSelector = "h2 a"
 [Metadata] # test
 title = "Distributed Systems Blog"
 url = "https://muratbuffalo.blogspot.com/"
-entrySelector = "#main > #page_body > #Blog1 > .blog-posts > .post-outer-container"
+entrySelector = "#main > #page_body > #Blog1 > .blog-posts > .post-outer-container  > article > div > div > div.container.post-body.entry-content"
 titleSelector = ".post-outer > .post > .post-title > a"
 linkSelector = ".post-outer > .post > .post-bottom > .jump-link > a"
