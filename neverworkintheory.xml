@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-10-24T05:47:11.621Z</updated>
+    <updated>2021-10-24T17:42:06.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-10-21: The Impact of Sleep Deprivation]]></title>
-        <id>https://neverworkintheory.org/2021/10/21/the-impact-of-sleep-deprivation.html</id>
-        <link href="https://neverworkintheory.org/2021/10/21/the-impact-of-sleep-deprivation.html"/>
-        <updated>2021-10-23T09:19:50.931Z</updated>
-        <content type="html"><![CDATA[Last month we wrote that we wouldn't review any more papers on test-driven development, but Fucci2020 isn't really about TDD. Instead, the authors measured how well students wrote tests in order to gauge the effects of going a night without sleep. By comparing those who slept with those who didn't, they found that a single sleepless night reduced code quality by 50%. This is consistent with what we know from a century of other studies (see here for a short summary, and here for a shorter one); I don't expect companies or universities will suddenly start paying attention to the...]]></content>
+        <title type="html"><![CDATA[2021-10-24: What's Missing from 'The Missing README']]></title>
+        <id>https://neverworkintheory.org/2021/10/24/whats-missing-from-the-missing-readme.html</id>
+        <link href="https://neverworkintheory.org/2021/10/24/whats-missing-from-the-missing-readme.html"/>
+        <updated>2021-10-24T17:41:30.861Z</updated>
+        <content type="html"><![CDATA[As we noted in our review of The Tech Worker's Handbook, software companies have done a lot of damage to society. From automating discrimination and eroding privacy to spreading disinformation and fuelling racial hatred, those companies have amplified old problems and created new ones. But companies are legal fictions: responsibility actually lies with the executives who run those companies—and with the programmers who choose to write software for them. One reason for this is that programming isn't a profession like nursing, accounting, or law. You can't just call yourself a nurse, an accountant, or a lawyer: instead, you must prove...]]></content>
     </entry>
 </feed>
