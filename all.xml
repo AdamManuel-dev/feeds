@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-27T05:37:09.023Z</updated>
+    <updated>2021-10-27T17:43:28.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Linearizability (Distributed Systems Blog)]]></title>
@@ -82,6 +82,13 @@
         <content type="html"><![CDATA[When I was first introduced to SQL in my undergraduate database course, we were trained on an Oracle SQL instance. Taipalus2021 provides evidence that I may have been just a bit happier had we used PostgreSQL instead. Taipalus2021 studied how choice of database management system (DBMS) affected the effectiveness and subjective experience of novices when correcting SQL syntax errors. Overall, novices reported that the error messages produced by PostgreSQL and Microsoft SQL Server were more useful than error messages from MySQL, meanwhile Oracle's error messages were usually deemed the least useful—perhaps because its messages generally do a poor job of...]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Where Transcendental Numbers Hide in Everyday Math (Quanta: Mathematics)]]></title>
+        <id>https://www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/</id>
+        <link href="https://www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/"/>
+        <updated>2021-10-27T17:43:17.556Z</updated>
+        <content type="html"><![CDATA[The transcendental number <em>π</em> is as familiar as it is ubiquitous, but how does Euler’s number <em>e</em> transcend the ordinary?]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Tadayuki Watanabe Disproved a Major Conjecture About Spheres (Quanta: Mathematics)]]></title>
         <id>https://www.quantamagazine.org/how-tadayuki-watanabe-solved-a-topological-mystery-about-spheres-20211026/</id>
         <link href="https://www.quantamagazine.org/how-tadayuki-watanabe-solved-a-topological-mystery-about-spheres-20211026/"/>
@@ -101,13 +108,6 @@
         <link href="https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/"/>
         <updated>2021-10-23T09:19:55.965Z</updated>
         <content type="html"><![CDATA[After decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Topology, When Are Two Shapes the Same? (Quanta: Mathematics)]]></title>
-        <id>https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/</id>
-        <link href="https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/"/>
-        <updated>2021-10-23T09:19:55.967Z</updated>
-        <content type="html"><![CDATA[As topologists seek to classify shapes, the effort hinges on how to define a manifold and what it means for two of them to be equivalent.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Uselessness of Useful Knowledge (Quanta: Computer Science)]]></title>
