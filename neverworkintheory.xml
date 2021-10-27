@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-10-24T17:42:06.258Z</updated>
+    <updated>2021-10-27T05:37:09.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-10-24: What's Missing from 'The Missing README']]></title>
-        <id>https://neverworkintheory.org/2021/10/24/whats-missing-from-the-missing-readme.html</id>
-        <link href="https://neverworkintheory.org/2021/10/24/whats-missing-from-the-missing-readme.html"/>
-        <updated>2021-10-24T17:41:30.861Z</updated>
-        <content type="html"><![CDATA[As we noted in our review of The Tech Worker's Handbook, software companies have done a lot of damage to society. From automating discrimination and eroding privacy to spreading disinformation and fuelling racial hatred, those companies have amplified old problems and created new ones. But companies are legal fictions: responsibility actually lies with the executives who run those companies—and with the programmers who choose to write software for them. One reason for this is that programming isn't a profession like nursing, accounting, or law. You can't just call yourself a nurse, an accountant, or a lawyer: instead, you must prove...]]></content>
+        <title type="html"><![CDATA[2021-10-26: Error Messages in Relational Database Systems]]></title>
+        <id>https://neverworkintheory.org/2021/10/26/error-messages-in-relational-database-systems.html</id>
+        <link href="https://neverworkintheory.org/2021/10/26/error-messages-in-relational-database-systems.html"/>
+        <updated>2021-10-27T05:36:54.255Z</updated>
+        <content type="html"><![CDATA[When I was first introduced to SQL in my undergraduate database course, we were trained on an Oracle SQL instance. Taipalus2021 provides evidence that I may have been just a bit happier had we used PostgreSQL instead. Taipalus2021 studied how choice of database management system (DBMS) affected the effectiveness and subjective experience of novices when correcting SQL syntax errors. Overall, novices reported that the error messages produced by PostgreSQL and Microsoft SQL Server were more useful than error messages from MySQL, meanwhile Oracle's error messages were usually deemed the least useful—perhaps because its messages generally do a poor job of...]]></content>
     </entry>
 </feed>
