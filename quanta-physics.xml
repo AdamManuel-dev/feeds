@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/physics/</id>
     <title>Quanta: Physics</title>
-    <updated>2021-10-28T05:47:51.539Z</updated>
+    <updated>2021-10-28T18:02:41.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Is the Great Neutrino Puzzle Pointing to Multiple Missing Particles?]]></title>
+        <id>https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/</id>
+        <link href="https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/"/>
+        <updated>2021-10-28T18:02:40.437Z</updated>
+        <content type="html"><![CDATA[Years of conflicting neutrino measurements have led physicists to propose a “dark sector” of invisible particles — one that could simultaneously explain dark matter, the puzzling expansion of the universe, and other mysteries.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Ultra-Precise Clock Shows How to Link the Quantum World With Gravity]]></title>
         <id>https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/a-hint-of-dark-matter-sends-physicists-looking-to-the-skies-20211019/"/>
         <updated>2021-10-23T09:20:06.083Z</updated>
         <content type="html"><![CDATA[After a search of neutron stars finds preliminary evidence for hypothetical dark matter particles called axions, astrophysicists are devising new ways to spot them.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Astronomer Who’s About to See the Skies of Other Earths]]></title>
-        <id>https://www.quantamagazine.org/with-a-new-space-telescope-laura-kreidberg-will-probe-exoplanet-skies-20211012/</id>
-        <link href="https://www.quantamagazine.org/with-a-new-space-telescope-laura-kreidberg-will-probe-exoplanet-skies-20211012/"/>
-        <updated>2021-10-23T09:20:06.085Z</updated>
-        <content type="html"><![CDATA[After the ultra-powerful James Webb Space Telescope launches later this year, Laura Kreidberg will lead two efforts to check the weather on rocky planets orbiting other stars.]]></content>
     </entry>
 </feed>

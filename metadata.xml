@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muratbuffalo.blogspot.com/</id>
     <title>Distributed Systems Blog</title>
-    <updated>2021-10-28T05:47:51.545Z</updated>
+    <updated>2021-10-28T18:02:41.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://muratbuffalo.blogspot.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jon Howell AMA at SOSP21 (Day 2)]]></title>
+        <id>https://muratbuffalo.blogspot.com/2021/10/jon-howell-ama-at-sosp21-day-2.html</id>
+        <link href="https://muratbuffalo.blogspot.com/2021/10/jon-howell-ama-at-sosp21-day-2.html"/>
+        <updated>2021-10-28T13:14:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;There were several AMAs at SOSP21, where the attendees can ask questions. I really like Jon Howell 's AMA session. I asked two questions I was interested about learning.&nbsp;&nbsp; Why do you think verification is at a breakaway point now? What are the factors that make this the go-big moment? We are now figuring out how to make common problems cheap. Historically Coq proving was about being clever: do something not done before. Now we are focusing on how do we make the common stuff cheap. The Ironclad project  began when Rustan Leino  came to our team, and said I have a tool, let's use this tool. The Dafny demos were interesting to me. A red squiggly line showed a bug. When you give hint, the bug went away. It was a lightbulb moment. It took me extra line of code/explanation for me to get it. The verifier already got it. We had verification runouts in slicon valley,&nbsp; with tlc, tlaps and others. The verifier send back question mark, and we try to decode it, what we realize was, almost]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOSP21 conference (Day 1)]]></title>
+        <id>https://muratbuffalo.blogspot.com/2021/10/sosp-conference-day-1.html</id>
+        <link href="https://muratbuffalo.blogspot.com/2021/10/sosp-conference-day-1.html"/>
+        <updated>2021-10-28T12:59:00.000Z</updated>
+        <content type="html"><![CDATA[SOSP, along with OSDI, is the premiere conference in computer systems. SOSP was held biannually; I had attended SOSP19 in person, and shared  notes  and paper summaries  from that.&nbsp; This year SOSP is virtual, which made it a lot easier to travel to. It is nice attending the conference from the convenience of your home. The experience is not too inferior to physical conference attending if you take the convenience factor into account.&nbsp; Here are some notes from SOSP21. If you find and interesting paper, you can dig in, because: All SOSP papers are available as open access All the presentations are also available on YouTube Opening The conference opened with announcements from program committee (PC) chairs. SOSP21 had 348 submissions from 2078 authors, resulting on avg 6 authors per paper. 54 out of 348 papers are accepted. Reviews were conducted by 64 PC members, who produced 1500+ reviews. The trend is clear, the number of submissions are growing steeply.&nbsp; Last year OSDI had announced i]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linearizability]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/10/linearizability.html</id>
@@ -60,19 +74,5 @@
         <link href="https://muratbuffalo.blogspot.com/2021/07/humans-of-computer-systems-frenchie.html"/>
         <updated>2021-07-06T15:19:00.000Z</updated>
         <content type="html"><![CDATA[Programming How did you learn to program? I was lucky that our 5th grade (age 9-10) teacher knew how to use the computers in the school. I learned a little bit of BASIC on a Thomson MO-5. Then I had other hobbies until high school, at which point I joined a semi-formal programming class hosted by a math teacher. That's where I really cut my teeth with Pascal and x86 assembly. Later I got a degree in software engineering. Tell us about the most interesting/significant piece of code you wrote. I would mention two.&nbsp; One is a critical component in a distributed system: several thousand lines of code, highly concurrent, performance sensitive, high risk (data corruption), lots of tests, months to get it right, years of refinements (optimizations, new use cases). Very valuable. It is far from perfect in several ways, but it worked very well in production for many years across many customers. An invisible part of a complex system. The other is a short script (a couple hundred lines), a mix]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humans of Computer Systems: Goku]]></title>
-        <id>https://muratbuffalo.blogspot.com/2021/07/humans-of-computer-systems-goku.html</id>
-        <link href="https://muratbuffalo.blogspot.com/2021/07/humans-of-computer-systems-goku.html"/>
-        <updated>2021-07-01T15:00:00.000Z</updated>
-        <content type="html"><![CDATA[Programming How did you learn to program? In college Tell us about the most interesting/significant piece of code you wrote. contributed to zfs, oracle file systems (writeback, journal, snapshot compaction) Who did you learn most from about computer systems? books, internet, architects Who is the greatest programmer you met, and what is impressive about them? Brian bendelorf (ZFS on Linux) maintainer, Matt Ahrens What is the best code you have seen? zfs, tintri file systems, yugabytedb, linux kernel What do you believe are the most important skills to be successful in your field? understanding the fundamentals, not giving up, digging deep What quality or ability do you value most in a computer systems person? Ability to debug code which others have written, mainly to the point that the RCA (root cause analysis) is correct and not superficial Ability to write clean decent design code at speed Simplicity in the complete process of systems software development Adding meaningful debugging]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humans of Computer Systems: IndianDev]]></title>
-        <id>https://muratbuffalo.blogspot.com/2021/06/humans-of-computer-systems-indiandev.html</id>
-        <link href="https://muratbuffalo.blogspot.com/2021/06/humans-of-computer-systems-indiandev.html"/>
-        <updated>2021-06-29T16:05:00.000Z</updated>
-        <content type="html"><![CDATA[Programming How did you learn to program? I started programming at a relatively young age, around 6th standard (in India). Initially leanred HTML, CSS from w3school and online tutorial blogs/videos, then learned C++, mostly from School curriculum book. In college, I throughly enjoyed reading "Thinking in C++". Tell us about the most interesting/significant piece of code you wrote. I remember the first project I did in school which I'm really proud of, even though it was more of a toy fun project. It was an image editor for BMP files, written in C++.&nbsp; Who did you learn most from about computer systems? Hacker News, I have been following it since high school. Who is the greatest programmer you met, and what is impressive about them? Interestingly, my own definition of good programmer has changed few times. In college times, I used to admire programmers who had strong algorithmic skills required for ICPC like competitions, but lately I have realised it's equally importan]]></content>
     </entry>
 </feed>
