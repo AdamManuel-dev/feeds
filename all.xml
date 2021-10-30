@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-30T05:36:59.881Z</updated>
+    <updated>2021-10-30T17:42:28.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Log structured protocols in Delos (SOSP21) (Distributed Systems Blog)]]></title>
@@ -75,11 +75,11 @@
         <content type="html"><![CDATA[Let's start with the impossibility results, a good place to start distributed systems discussion. The coordinated attack result  says that if the communication channels can drop messages arbitrarily and undetectably you cannot solve distributed consensus using a deterministic protocol in finite rounds. This result is all about *the curse of asymmetry of information*. Reliable channels are needed for two parties to agree on something. Otherwise the two parties are stuck in a Zeno's paradox of "You may not know that I know that you know that I know" kind of information chaining. A classic paper to checkout on the topic is " Knowledge and common knowledge in a distributed environment ". Assuming mostly reliable channels and demanding majority acks, it is possible to solve consensus in a partially synchronous system. Paxos shows us how to do this.  Paxos uses quorum of acks to get around the problem of "the agreement having to occur in one shot" as in]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021-10-26: Error Messages in Relational Database Systems (Most Recent It Will Never Work in Theory)]]></title>
-        <id>https://neverworkintheory.org/2021/10/26/error-messages-in-relational-database-systems.html</id>
-        <link href="https://neverworkintheory.org/2021/10/26/error-messages-in-relational-database-systems.html"/>
-        <updated>2021-10-27T05:36:54.255Z</updated>
-        <content type="html"><![CDATA[When I was first introduced to SQL in my undergraduate database course, we were trained on an Oracle SQL instance. Taipalus2021 provides evidence that I may have been just a bit happier had we used PostgreSQL instead. Taipalus2021 studied how choice of database management system (DBMS) affected the effectiveness and subjective experience of novices when correcting SQL syntax errors. Overall, novices reported that the error messages produced by PostgreSQL and Microsoft SQL Server were more useful than error messages from MySQL, meanwhile Oracle's error messages were usually deemed the least useful—perhaps because its messages generally do a poor job of...]]></content>
+        <title type="html"><![CDATA[2021-10-30: App Store Effects on Software Engineering Practices (Most Recent It Will Never Work in Theory)]]></title>
+        <id>https://neverworkintheory.org/2021/10/30/app-store-effects-on-software-engineering-practices.html</id>
+        <link href="https://neverworkintheory.org/2021/10/30/app-store-effects-on-software-engineering-practices.html"/>
+        <updated>2021-10-30T17:41:59.646Z</updated>
+        <content type="html"><![CDATA[I once heard an athletics coach say, "If you change the ball, you have to change the game." What she meant was that you can't play football with a tennis ball or vice versa, and something similar is proving true in software engineering. Once enough people have reliable high-bandwidth connections, chat tools and package repositories become feasible, and development practices inevitably change in response. AlSubaihin2021 looks at the influence one innovation—app stores—are having on how developers work. The biggest impact is on requirements and design: most developers look in app stores to gauge the feasibility of their idea and for...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Where Transcendental Numbers Hide in Everyday Math (Quanta: Mathematics)]]></title>
