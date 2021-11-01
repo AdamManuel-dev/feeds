@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/mathematics/</id>
     <title>Quanta: Mathematics</title>
-    <updated>2021-10-31T05:37:19.304Z</updated>
+    <updated>2021-11-01T17:55:39.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions]]></title>
+        <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
+        <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
+        <updated>2021-11-01T17:55:20.380Z</updated>
+        <content type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where Transcendental Numbers Hide in Everyday Math]]></title>
         <id>https://www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/"/>
         <updated>2021-10-23T09:19:55.964Z</updated>
         <content type="html"><![CDATA[Built upon the ubiquitous Fourier transform, the mathematical tools known as wavelets allow unprecedented analysis and understanding of continuous signals.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Prove Melting Ice Stays Smooth]]></title>
-        <id>https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/</id>
-        <link href="https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/"/>
-        <updated>2021-10-23T09:19:55.965Z</updated>
-        <content type="html"><![CDATA[After decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.]]></content>
     </entry>
 </feed>

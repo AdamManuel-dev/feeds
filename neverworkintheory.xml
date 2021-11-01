@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-10-31T05:37:19.302Z</updated>
+    <updated>2021-11-01T17:55:39.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-10-30: App Store Effects on Software Engineering Practices]]></title>
-        <id>https://neverworkintheory.org/2021/10/30/app-store-effects-on-software-engineering-practices.html</id>
-        <link href="https://neverworkintheory.org/2021/10/30/app-store-effects-on-software-engineering-practices.html"/>
-        <updated>2021-10-30T17:41:59.646Z</updated>
-        <content type="html"><![CDATA[I once heard an athletics coach say, "If you change the ball, you have to change the game." What she meant was that you can't play football with a tennis ball or vice versa, and something similar is proving true in software engineering. Once enough people have reliable high-bandwidth connections, chat tools and package repositories become feasible, and development practices inevitably change in response. AlSubaihin2021 looks at the influence one innovation—app stores—are having on how developers work. The biggest impact is on requirements and design: most developers look in app stores to gauge the feasibility of their idea and for...]]></content>
+        <title type="html"><![CDATA[2021-10-31: Locating Faults with Program Slicing]]></title>
+        <id>https://neverworkintheory.org/2021/10/31/locating-faults-with-program-slicing.html</id>
+        <link href="https://neverworkintheory.org/2021/10/31/locating-faults-with-program-slicing.html"/>
+        <updated>2021-11-01T17:55:10.245Z</updated>
+        <content type="html"><![CDATA[Most programmers spend more time debugging than writing new code, but books and courses on debugging are few and far between, and testing tools to help people figure out if code is buggy or not are much more common than ones to help them figure out where the bugs are. Thankfully, there is a growing body of research on isolating and repairing bugs. One interesting approach is statistical fault localization: given a set of tests that pass and another set that fail, look at the correlation between statements that are executed by failing tests but not by passing tests in...]]></content>
     </entry>
 </feed>

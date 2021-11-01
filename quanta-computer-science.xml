@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/computer-science/</id>
     <title>Quanta: Computer Science</title>
-    <updated>2021-10-31T05:37:19.294Z</updated>
+    <updated>2021-11-01T17:55:39.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions]]></title>
+        <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
+        <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
+        <updated>2021-11-01T17:55:29.777Z</updated>
+        <content type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Uselessness of Useful Knowledge]]></title>
         <id>https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/"/>
         <updated>2021-10-23T09:20:01.066Z</updated>
         <content type="html"><![CDATA[To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major Quantum Computing Strategy Suffers Serious Setbacks]]></title>
-        <id>https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/</id>
-        <link href="https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/"/>
-        <updated>2021-10-23T09:20:01.067Z</updated>
-        <content type="html"><![CDATA[So-called topological quantum computing would avoid many of the problems that stand in the way of full-scale quantum computers. But high-profile missteps have led some experts to question whether the field is fooling itself.]]></content>
     </entry>
 </feed>

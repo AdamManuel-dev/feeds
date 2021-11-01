@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-31T05:37:19.306Z</updated>
+    <updated>2021-11-01T17:55:39.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Log structured protocols in Delos (SOSP21) (Distributed Systems Blog)]]></title>
@@ -75,11 +75,18 @@
         <content type="html"><![CDATA[Let's start with the impossibility results, a good place to start distributed systems discussion. The coordinated attack result  says that if the communication channels can drop messages arbitrarily and undetectably you cannot solve distributed consensus using a deterministic protocol in finite rounds. This result is all about *the curse of asymmetry of information*. Reliable channels are needed for two parties to agree on something. Otherwise the two parties are stuck in a Zeno's paradox of "You may not know that I know that you know that I know" kind of information chaining. A classic paper to checkout on the topic is " Knowledge and common knowledge in a distributed environment ". Assuming mostly reliable channels and demanding majority acks, it is possible to solve consensus in a partially synchronous system. Paxos shows us how to do this.  Paxos uses quorum of acks to get around the problem of "the agreement having to occur in one shot" as in]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021-10-30: App Store Effects on Software Engineering Practices (Most Recent It Will Never Work in Theory)]]></title>
-        <id>https://neverworkintheory.org/2021/10/30/app-store-effects-on-software-engineering-practices.html</id>
-        <link href="https://neverworkintheory.org/2021/10/30/app-store-effects-on-software-engineering-practices.html"/>
-        <updated>2021-10-30T17:41:59.646Z</updated>
-        <content type="html"><![CDATA[I once heard an athletics coach say, "If you change the ball, you have to change the game." What she meant was that you can't play football with a tennis ball or vice versa, and something similar is proving true in software engineering. Once enough people have reliable high-bandwidth connections, chat tools and package repositories become feasible, and development practices inevitably change in response. AlSubaihin2021 looks at the influence one innovation—app stores—are having on how developers work. The biggest impact is on requirements and design: most developers look in app stores to gauge the feasibility of their idea and for...]]></content>
+        <title type="html"><![CDATA[2021-10-31: Locating Faults with Program Slicing (Most Recent It Will Never Work in Theory)]]></title>
+        <id>https://neverworkintheory.org/2021/10/31/locating-faults-with-program-slicing.html</id>
+        <link href="https://neverworkintheory.org/2021/10/31/locating-faults-with-program-slicing.html"/>
+        <updated>2021-11-01T17:55:10.245Z</updated>
+        <content type="html"><![CDATA[Most programmers spend more time debugging than writing new code, but books and courses on debugging are few and far between, and testing tools to help people figure out if code is buggy or not are much more common than ones to help them figure out where the bugs are. Thankfully, there is a growing body of research on isolating and repairing bugs. One interesting approach is statistical fault localization: given a set of tests that pass and another set that fail, look at the correlation between statements that are executed by failing tests but not by passing tests in...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions (Quanta: Mathematics)]]></title>
+        <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
+        <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
+        <updated>2021-11-01T17:55:20.380Z</updated>
+        <content type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Where Transcendental Numbers Hide in Everyday Math (Quanta: Mathematics)]]></title>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[Built upon the ubiquitous Fourier transform, the mathematical tools known as wavelets allow unprecedented analysis and understanding of continuous signals.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mathematicians Prove Melting Ice Stays Smooth (Quanta: Mathematics)]]></title>
-        <id>https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/</id>
-        <link href="https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/"/>
-        <updated>2021-10-23T09:19:55.965Z</updated>
-        <content type="html"><![CDATA[After decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.]]></content>
+        <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions (Quanta: Computer Science)]]></title>
+        <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
+        <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
+        <updated>2021-11-01T17:55:29.777Z</updated>
+        <content type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Uselessness of Useful Knowledge (Quanta: Computer Science)]]></title>
@@ -129,13 +136,6 @@
         <link href="https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/"/>
         <updated>2021-10-23T09:20:01.066Z</updated>
         <content type="html"><![CDATA[To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major Quantum Computing Strategy Suffers Serious Setbacks (Quanta: Computer Science)]]></title>
-        <id>https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/</id>
-        <link href="https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/"/>
-        <updated>2021-10-23T09:20:01.067Z</updated>
-        <content type="html"><![CDATA[So-called topological quantum computing would avoid many of the problems that stand in the way of full-scale quantum computers. But high-profile missteps have led some experts to question whether the field is fooling itself.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Is the Great Neutrino Puzzle Pointing to Multiple Missing Particles? (Quanta: Physics)]]></title>
