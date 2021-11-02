@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-01T17:55:39.671Z</updated>
+    <updated>2021-11-02T05:47:35.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Log structured protocols in Delos (SOSP21) (Distributed Systems Blog)]]></title>
@@ -113,7 +113,7 @@
         <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions (Quanta: Computer Science)]]></title>
         <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
         <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
-        <updated>2021-11-01T17:55:29.777Z</updated>
+        <updated>2021-11-01T17:55:20.380Z</updated>
         <content type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.]]></content>
     </entry>
     <entry>
