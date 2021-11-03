@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/physics/</id>
     <title>Quanta: Physics</title>
-    <updated>2021-11-02T17:44:12.217Z</updated>
+    <updated>2021-11-03T17:54:52.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Researchers Revise Recipe for Building a Rocky Planet Like Earth]]></title>
+        <id>https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/</id>
+        <link href="https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/"/>
+        <updated>2021-11-03T17:54:51.286Z</updated>
+        <content type="html"><![CDATA[Over the past decade, researchers have completely rewritten the story of how gas giants such as Jupiter and Saturn form. They’re now debating whether the same process might hold for Earth.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is the Great Neutrino Puzzle Pointing to Multiple Missing Particles?]]></title>
         <id>https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[Years of conflicting neutrino measurements have led physicists to propose a “dark sector” of invisible particles — one that could simultaneously explain dark matter, the puzzling expansion of the universe, and other mysteries.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Ultra-Precise Clock Shows How to Link the Quantum World With Gravity]]></title>
+        <title type="html"><![CDATA[An Ultra-Precise Clock Links the Quantum World With Gravity]]></title>
         <id>https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/</id>
         <link href="https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/"/>
         <updated>2021-10-27T05:37:08.257Z</updated>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/"/>
         <updated>2021-10-23T09:20:06.080Z</updated>
         <content type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Hint of Dark Matter Sends Physicists Looking to the Skies]]></title>
-        <id>https://www.quantamagazine.org/a-hint-of-dark-matter-sends-physicists-looking-to-the-skies-20211019/</id>
-        <link href="https://www.quantamagazine.org/a-hint-of-dark-matter-sends-physicists-looking-to-the-skies-20211019/"/>
-        <updated>2021-10-23T09:20:06.083Z</updated>
-        <content type="html"><![CDATA[After a search of neutron stars finds preliminary evidence for hypothetical dark matter particles called axions, astrophysicists are devising new ways to spot them.]]></content>
     </entry>
 </feed>

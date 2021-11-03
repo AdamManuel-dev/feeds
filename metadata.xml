@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muratbuffalo.blogspot.com/</id>
     <title>Distributed Systems Blog</title>
-    <updated>2021-11-02T17:44:12.225Z</updated>
+    <updated>2021-11-03T17:54:52.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://muratbuffalo.blogspot.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rabia: Simplifying State-Machine Replication Through Randomization (SOSP'21)]]></title>
+        <id>https://muratbuffalo.blogspot.com/2021/11/rabia-simplifying-state-machine.html</id>
+        <link href="https://muratbuffalo.blogspot.com/2021/11/rabia-simplifying-state-machine.html"/>
+        <updated>2021-11-03T03:17:00.000Z</updated>
+        <content type="html"><![CDATA[This paper appeared in SOSP'21 . I took notes and screen-snapshots during the presentation of this paper, and decided to put together a summary of what I understood from it. The paper has a simple idea and a somewhat unexpected result. It will be interesting to dive deep and explore to the extent this idea can be applied in practice.&nbsp; Here is the idea. State-machine replication through Paxos , more accurately MultiPaxos, is commonly used in practice. (Yes, that includes state-machine replication through Raft, if I have to spell this out to the Rafters among us.) The MultiPaxos leader drives the protocol.  It is basically one round, phase-2 execution of "accept this!" "yes, boss" between the leader and followers, where phase3 commit can be piggybacked to phase-2 message. This is as simple and efficient as it gets. You can't beat it! Or can you? The paper argues that, although the happy path of MultiPaxos based state-machine replication is simple and efficient]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Log structured protocols in Delos (SOSP21)]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/10/log-structured-protocols-in-delos-sosp21.html</id>
@@ -67,12 +74,5 @@
         <link href="https://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html"/>
         <updated>2021-08-17T13:35:00.000Z</updated>
         <content type="html"><![CDATA[This is a pun on the saying "there is always room at the top". This is also the title of a famous Feynman lecture from 1959 , where he made a case for nanotechnology.&nbsp; In this post, I will try to argue that there is plenty of room at the bottom for distributed algorithms. Most work on distributed algorithms are done at a high-level abstraction plane. These high level solutions do not transfer well to the implementation level, and this opens a lot of space to explore at the implementation level. But this is not just an opportunistic argument. It is imperative to target the implementation level with our distributed algorithms work, otherwise they remain as theoretical, unused, inapplicable.&nbsp; Let me try to demonstrate using consensus protocols as examples. Someone else can make the same case using another subdomain. Be mindful of what is swept under the rug What is succinct at the high level could be very hard to implement and get right at the low level.  Paxos seems simple , bu]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do tightly synchronized clocks help consensus?]]></title>
-        <id>https://muratbuffalo.blogspot.com/2021/08/does-tightly-synchronized-clocks-help.html</id>
-        <link href="https://muratbuffalo.blogspot.com/2021/08/does-tightly-synchronized-clocks-help.html"/>
-        <updated>2021-08-09T03:40:00.000Z</updated>
-        <content type="html"><![CDATA[Let's start with the impossibility results, a good place to start distributed systems discussion. The coordinated attack result  says that if the communication channels can drop messages arbitrarily and undetectably you cannot solve distributed consensus using a deterministic protocol in finite rounds. This result is all about *the curse of asymmetry of information*. Reliable channels are needed for two parties to agree on something. Otherwise the two parties are stuck in a Zeno's paradox of "You may not know that I know that you know that I know" kind of information chaining. A classic paper to checkout on the topic is " Knowledge and common knowledge in a distributed environment ". Assuming mostly reliable channels and demanding majority acks, it is possible to solve consensus in a partially synchronous system. Paxos shows us how to do this.  Paxos uses quorum of acks to get around the problem of "the agreement having to occur in one shot" as in]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-02T17:44:12.223Z</updated>
+    <updated>2021-11-03T17:54:52.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Rabia: Simplifying State-Machine Replication Through Randomization (SOSP'21) (Distributed Systems Blog)]]></title>
+        <id>https://muratbuffalo.blogspot.com/2021/11/rabia-simplifying-state-machine.html</id>
+        <link href="https://muratbuffalo.blogspot.com/2021/11/rabia-simplifying-state-machine.html"/>
+        <updated>2021-11-03T03:17:00.000Z</updated>
+        <content type="html"><![CDATA[This paper appeared in SOSP'21 . I took notes and screen-snapshots during the presentation of this paper, and decided to put together a summary of what I understood from it. The paper has a simple idea and a somewhat unexpected result. It will be interesting to dive deep and explore to the extent this idea can be applied in practice.&nbsp; Here is the idea. State-machine replication through Paxos , more accurately MultiPaxos, is commonly used in practice. (Yes, that includes state-machine replication through Raft, if I have to spell this out to the Rafters among us.) The MultiPaxos leader drives the protocol.  It is basically one round, phase-2 execution of "accept this!" "yes, boss" between the leader and followers, where phase3 commit can be piggybacked to phase-2 message. This is as simple and efficient as it gets. You can't beat it! Or can you? The paper argues that, although the happy path of MultiPaxos based state-machine replication is simple and efficient]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Log structured protocols in Delos (SOSP21) (Distributed Systems Blog)]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/10/log-structured-protocols-in-delos-sosp21.html</id>
@@ -66,13 +73,6 @@
         <link href="https://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html"/>
         <updated>2021-08-17T13:35:00.000Z</updated>
         <content type="html"><![CDATA[This is a pun on the saying "there is always room at the top". This is also the title of a famous Feynman lecture from 1959 , where he made a case for nanotechnology.&nbsp; In this post, I will try to argue that there is plenty of room at the bottom for distributed algorithms. Most work on distributed algorithms are done at a high-level abstraction plane. These high level solutions do not transfer well to the implementation level, and this opens a lot of space to explore at the implementation level. But this is not just an opportunistic argument. It is imperative to target the implementation level with our distributed algorithms work, otherwise they remain as theoretical, unused, inapplicable.&nbsp; Let me try to demonstrate using consensus protocols as examples. Someone else can make the same case using another subdomain. Be mindful of what is swept under the rug What is succinct at the high level could be very hard to implement and get right at the low level.  Paxos seems simple , bu]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do tightly synchronized clocks help consensus? (Distributed Systems Blog)]]></title>
-        <id>https://muratbuffalo.blogspot.com/2021/08/does-tightly-synchronized-clocks-help.html</id>
-        <link href="https://muratbuffalo.blogspot.com/2021/08/does-tightly-synchronized-clocks-help.html"/>
-        <updated>2021-08-09T03:40:00.000Z</updated>
-        <content type="html"><![CDATA[Let's start with the impossibility results, a good place to start distributed systems discussion. The coordinated attack result  says that if the communication channels can drop messages arbitrarily and undetectably you cannot solve distributed consensus using a deterministic protocol in finite rounds. This result is all about *the curse of asymmetry of information*. Reliable channels are needed for two parties to agree on something. Otherwise the two parties are stuck in a Zeno's paradox of "You may not know that I know that you know that I know" kind of information chaining. A classic paper to checkout on the topic is " Knowledge and common knowledge in a distributed environment ". Assuming mostly reliable channels and demanding majority acks, it is possible to solve consensus in a partially synchronous system. Paxos shows us how to do this.  Paxos uses quorum of acks to get around the problem of "the agreement having to occur in one shot" as in]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-10-31: Locating Faults with Program Slicing (Most Recent It Will Never Work in Theory)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Researchers Revise Recipe for Building a Rocky Planet Like Earth (Quanta: Physics)]]></title>
+        <id>https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/</id>
+        <link href="https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/"/>
+        <updated>2021-11-03T17:54:51.286Z</updated>
+        <content type="html"><![CDATA[Over the past decade, researchers have completely rewritten the story of how gas giants such as Jupiter and Saturn form. They’re now debating whether the same process might hold for Earth.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Is the Great Neutrino Puzzle Pointing to Multiple Missing Particles? (Quanta: Physics)]]></title>
         <id>https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/</id>
         <link href="https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/"/>
@@ -145,7 +152,7 @@
         <content type="html"><![CDATA[Years of conflicting neutrino measurements have led physicists to propose a “dark sector” of invisible particles — one that could simultaneously explain dark matter, the puzzling expansion of the universe, and other mysteries.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Ultra-Precise Clock Shows How to Link the Quantum World With Gravity (Quanta: Physics)]]></title>
+        <title type="html"><![CDATA[An Ultra-Precise Clock Links the Quantum World With Gravity (Quanta: Physics)]]></title>
         <id>https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/</id>
         <link href="https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/"/>
         <updated>2021-10-27T05:37:08.257Z</updated>
@@ -157,12 +164,5 @@
         <link href="https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/"/>
         <updated>2021-10-23T09:20:01.063Z</updated>
         <content type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Hint of Dark Matter Sends Physicists Looking to the Skies (Quanta: Physics)]]></title>
-        <id>https://www.quantamagazine.org/a-hint-of-dark-matter-sends-physicists-looking-to-the-skies-20211019/</id>
-        <link href="https://www.quantamagazine.org/a-hint-of-dark-matter-sends-physicists-looking-to-the-skies-20211019/"/>
-        <updated>2021-10-23T09:20:06.083Z</updated>
-        <content type="html"><![CDATA[After a search of neutron stars finds preliminary evidence for hypothetical dark matter particles called axions, astrophysicists are devising new ways to spot them.]]></content>
     </entry>
 </feed>
