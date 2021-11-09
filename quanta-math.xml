@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/mathematics/</id>
     <title>Quanta: Mathematics</title>
-    <updated>2021-11-08T05:58:52.894Z</updated>
+    <updated>2021-11-09T18:06:08.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Find Structure in Biased Polynomials]]></title>
+        <id>https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/</id>
+        <link href="https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/"/>
+        <updated>2021-11-09T18:05:46.439Z</updated>
+        <content type="html"><![CDATA[New work establishes a tighter connection between the rank of a polynomial and the extent to which it favors particular outputs.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions]]></title>
         <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/how-tadayuki-watanabe-solved-a-topological-mystery-about-spheres-20211026/"/>
         <updated>2021-10-27T05:36:58.604Z</updated>
         <content type="html"><![CDATA[Watanabe invented a new way of distinguishing shapes on his way to solving the last open case of the Smale conjecture, a central question in topology about symmetries of the sphere.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Wavelets Allow Researchers to Transform, and Understand, Data]]></title>
-        <id>https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/</id>
-        <link href="https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/"/>
-        <updated>2021-10-23T09:19:55.964Z</updated>
-        <content type="html"><![CDATA[Built upon the ubiquitous Fourier transform, the mathematical tools known as wavelets allow unprecedented analysis and understanding of continuous signals.]]></content>
     </entry>
 </feed>
