@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-11-10T05:37:31.660Z</updated>
+    <updated>2021-11-10T17:50:17.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-10-31: Locating Faults with Program Slicing]]></title>
-        <id>https://neverworkintheory.org/2021/10/31/locating-faults-with-program-slicing.html</id>
-        <link href="https://neverworkintheory.org/2021/10/31/locating-faults-with-program-slicing.html"/>
-        <updated>2021-11-01T17:55:10.245Z</updated>
-        <content type="html"><![CDATA[Most programmers spend more time debugging than writing new code, but books and courses on debugging are few and far between, and testing tools to help people figure out if code is buggy or not are much more common than ones to help them figure out where the bugs are. Thankfully, there is a growing body of research on isolating and repairing bugs. One interesting approach is statistical fault localization: given a set of tests that pass and another set that fail, look at the correlation between statements that are executed by failing tests but not by passing tests in...]]></content>
+        <title type="html"><![CDATA[2021-11-08: BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes]]></title>
+        <id>https://neverworkintheory.org/2021/11/08/my-kingdom-for-a-dataset.html</id>
+        <link href="https://neverworkintheory.org/2021/11/08/my-kingdom-for-a-dataset.html"/>
+        <updated>2021-11-10T17:49:50.163Z</updated>
+        <content type="html"><![CDATA[A dataset! A dataset! My kingdom for a dataset! The sentiment behind the King Richard's famous cries is perhaps shared, in a different context, by contemporary researchers who have their sights set on developing bug detection or automatic repair systems. Luckily Tomassi2019 have put shovels in the ground and made impressive headway towards a hyper-scale, real-world, current, and reproducible dataset of bugs and their corresponding fixes. The progress takes the form of BugSwarm, a continuous integration (CI) harvesting toolkit that aims to take failed CI pipelines and turn them into data samples. Before BugSwarm, the datasets that were available for...]]></content>
     </entry>
 </feed>
