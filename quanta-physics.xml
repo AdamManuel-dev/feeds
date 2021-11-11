@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/physics/</id>
     <title>Quanta: Physics</title>
-    <updated>2021-11-10T17:50:17.339Z</updated>
+    <updated>2021-11-11T17:55:56.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[A New Theory for Systems That Defy Newton’s Third Law]]></title>
+        <id>https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/</id>
+        <link href="https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/"/>
+        <updated>2021-11-11T17:55:56.050Z</updated>
+        <content type="html"><![CDATA[In nonreciprocal systems, where Newton’s third law falls apart, “exceptional points” are helping researchers understand phase transitions and possibly other phenomena.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laws of Logic Lead to New Restrictions on the Big Bang]]></title>
         <id>https://www.quantamagazine.org/cosmologists-close-in-on-logical-laws-for-the-big-bang-20211110/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/"/>
         <updated>2021-10-28T18:02:40.437Z</updated>
         <content type="html"><![CDATA[Years of conflicting neutrino measurements have led physicists to propose a “dark sector” of invisible particles — one that could simultaneously explain dark matter, the puzzling expansion of the universe, and other mysteries.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Ultra-Precise Clock Links the Quantum World With Gravity]]></title>
-        <id>https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/</id>
-        <link href="https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/"/>
-        <updated>2021-10-27T05:37:08.257Z</updated>
-        <content type="html"><![CDATA[Time was found to flow differently between the top and bottom of a single cloud of atoms. Physicists hope that such a system will one day help them combine quantum mechanics and Einstein’s theory of gravity.]]></content>
     </entry>
 </feed>
