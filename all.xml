@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-16T05:47:29.024Z</updated>
+    <updated>2021-11-16T18:03:08.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Rabia: Simplifying State-Machine Replication Through Randomization (SOSP'21) (Distributed Systems Blog)]]></title>
@@ -110,32 +110,11 @@
         <content type="html"><![CDATA[The transcendental number <em>π</em> is as familiar as it is ubiquitous, but how does Euler’s number <em>e</em> transcend the ordinary?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions (Quanta: Computer Science)]]></title>
-        <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
-        <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
-        <updated>2021-11-01T17:55:20.380Z</updated>
-        <content type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Uselessness of Useful Knowledge (Quanta: Computer Science)]]></title>
-        <id>https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/</id>
-        <link href="https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/"/>
-        <updated>2021-10-23T09:20:01.063Z</updated>
-        <content type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neuron Bursts Can Mimic Famous AI Learning Strategy (Quanta: Computer Science)]]></title>
-        <id>https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/</id>
-        <link href="https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/"/>
-        <updated>2021-10-23T09:20:01.064Z</updated>
-        <content type="html"><![CDATA[A new model of learning centers on bursts of neural activity that act as teaching signals — approximating backpropagation, the algorithm behind learning in AI.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Link to an Old Model Could Crack the Mystery of Deep Learning (Quanta: Computer Science)]]></title>
-        <id>https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/</id>
-        <link href="https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/"/>
-        <updated>2021-10-23T09:20:01.066Z</updated>
-        <content type="html"><![CDATA[To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning.]]></content>
+        <title type="html"><![CDATA[How Quantum Computers Will Correct Their Errors (Quanta: Physics)]]></title>
+        <id>https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/</id>
+        <link href="https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/"/>
+        <updated>2021-11-16T18:03:08.314Z</updated>
+        <content type="html"><![CDATA[Quantum bits are fussy and fragile. Useful quantum computers will need to use an error-correction technique like the one that was recently demonstrated on a real machine.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A New Theory for Systems That Defy Newton’s Third Law (Quanta: Physics)]]></title>
@@ -157,12 +136,5 @@
         <link href="https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/"/>
         <updated>2021-11-03T17:54:51.286Z</updated>
         <content type="html"><![CDATA[Over the past decade, researchers have completely rewritten the story of how gas giants such as Jupiter and Saturn form. They’re now debating whether the same process might hold for Earth.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the Great Neutrino Puzzle Pointing to Multiple Missing Particles? (Quanta: Physics)]]></title>
-        <id>https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/</id>
-        <link href="https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/"/>
-        <updated>2021-10-28T18:02:40.437Z</updated>
-        <content type="html"><![CDATA[Years of conflicting neutrino measurements have led physicists to propose a “dark sector” of invisible particles — one that could simultaneously explain dark matter, the puzzling expansion of the universe, and other mysteries.]]></content>
     </entry>
 </feed>

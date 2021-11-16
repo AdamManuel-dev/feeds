@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/physics/</id>
     <title>Quanta: Physics</title>
-    <updated>2021-11-16T05:47:29.021Z</updated>
+    <updated>2021-11-16T18:03:08.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[How Quantum Computers Will Correct Their Errors]]></title>
+        <id>https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/</id>
+        <link href="https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/"/>
+        <updated>2021-11-16T18:03:08.314Z</updated>
+        <content type="html"><![CDATA[Quantum bits are fussy and fragile. Useful quantum computers will need to use an error-correction technique like the one that was recently demonstrated on a real machine.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New Theory for Systems That Defy Newton’s Third Law]]></title>
         <id>https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/"/>
         <updated>2021-11-03T17:54:51.286Z</updated>
         <content type="html"><![CDATA[Over the past decade, researchers have completely rewritten the story of how gas giants such as Jupiter and Saturn form. They’re now debating whether the same process might hold for Earth.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the Great Neutrino Puzzle Pointing to Multiple Missing Particles?]]></title>
-        <id>https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/</id>
-        <link href="https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/"/>
-        <updated>2021-10-28T18:02:40.437Z</updated>
-        <content type="html"><![CDATA[Years of conflicting neutrino measurements have led physicists to propose a “dark sector” of invisible particles — one that could simultaneously explain dark matter, the puzzling expansion of the universe, and other mysteries.]]></content>
     </entry>
 </feed>
