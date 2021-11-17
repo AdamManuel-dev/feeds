@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-16T18:03:08.915Z</updated>
+    <updated>2021-11-17T05:47:41.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Rabia: Simplifying State-Machine Replication Through Randomization (SOSP'21) (Distributed Systems Blog)]]></title>
@@ -75,11 +75,11 @@
         <content type="html"><![CDATA[This is a pun on the saying "there is always room at the top". This is also the title of a famous Feynman lecture from 1959 , where he made a case for nanotechnology.&nbsp; In this post, I will try to argue that there is plenty of room at the bottom for distributed algorithms. Most work on distributed algorithms are done at a high-level abstraction plane. These high level solutions do not transfer well to the implementation level, and this opens a lot of space to explore at the implementation level. But this is not just an opportunistic argument. It is imperative to target the implementation level with our distributed algorithms work, otherwise they remain as theoretical, unused, inapplicable.&nbsp; Let me try to demonstrate using consensus protocols as examples. Someone else can make the same case using another subdomain. Be mindful of what is swept under the rug What is succinct at the high level could be very hard to implement and get right at the low level.  Paxos seems simple , bu]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021-11-08: BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes (Most Recent It Will Never Work in Theory)]]></title>
-        <id>https://neverworkintheory.org/2021/11/08/my-kingdom-for-a-dataset.html</id>
-        <link href="https://neverworkintheory.org/2021/11/08/my-kingdom-for-a-dataset.html"/>
-        <updated>2021-11-10T17:49:50.163Z</updated>
-        <content type="html"><![CDATA[A dataset! A dataset! My kingdom for a dataset! The sentiment behind the King Richard's famous cries is perhaps shared, in a different context, by contemporary researchers who have their sights set on developing bug detection or automatic repair systems. Luckily Tomassi2019 have put shovels in the ground and made impressive headway towards a hyper-scale, real-world, current, and reproducible dataset of bugs and their corresponding fixes. The progress takes the form of BugSwarm, a continuous integration (CI) harvesting toolkit that aims to take failed CI pipelines and turn them into data samples. Before BugSwarm, the datasets that were available for...]]></content>
+        <title type="html"><![CDATA[2021-11-16: On Using Stack Overflow Comment-Edit Pairs to Recommend Code Maintenance Changes (Most Recent It Will Never Work in Theory)]]></title>
+        <id>https://neverworkintheory.org/2021/11/16/using-so-comment-edit-pairs.html</id>
+        <link href="https://neverworkintheory.org/2021/11/16/using-so-comment-edit-pairs.html"/>
+        <updated>2021-11-17T05:47:18.954Z</updated>
+        <content type="html"><![CDATA[Have you ever developed any software without the help of Stack Overflow? In just 13 years, Stack Overflow has become an essential platform to get programming help. It has also become a source of data for researchers to solve many software engineering problems. However, Tang2021 are the first to evaluate whether Stack Overflow comments and edits can help solve the software maintenance problems. Their main goal was to find out how useful Stack Overflow comment-edit pairs are in making tools for code maintenance tasks like program repair and code recommender systems. The authors used SOTorrent to automatically mine edits of...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A New Theory for Systems That Defy Newton’s Third Law (Quanta: Mathematics)]]></title>
@@ -108,6 +108,34 @@
         <link href="https://www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/"/>
         <updated>2021-10-27T17:43:17.556Z</updated>
         <content type="html"><![CDATA[The transcendental number <em>π</em> is as familiar as it is ubiquitous, but how does Euler’s number <em>e</em> transcend the ordinary?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Quantum Computers Will Correct Their Errors (Quanta: Computer Science)]]></title>
+        <id>https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/</id>
+        <link href="https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/"/>
+        <updated>2021-11-16T18:03:08.314Z</updated>
+        <content type="html"><![CDATA[Quantum bits are fussy and fragile. Useful quantum computers will need to use an error-correction technique like the one that was recently demonstrated on a real machine.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions (Quanta: Computer Science)]]></title>
+        <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
+        <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
+        <updated>2021-11-01T17:55:20.380Z</updated>
+        <content type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Uselessness of Useful Knowledge (Quanta: Computer Science)]]></title>
+        <id>https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/</id>
+        <link href="https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/"/>
+        <updated>2021-11-17T05:47:32.050Z</updated>
+        <content type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuron Bursts Can Mimic Famous AI Learning Strategy (Quanta: Computer Science)]]></title>
+        <id>https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/</id>
+        <link href="https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/"/>
+        <updated>2021-11-17T05:47:32.053Z</updated>
+        <content type="html"><![CDATA[A new model of learning centers on bursts of neural activity that act as teaching signals — approximating backpropagation, the algorithm behind learning in AI.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How Quantum Computers Will Correct Their Errors (Quanta: Physics)]]></title>

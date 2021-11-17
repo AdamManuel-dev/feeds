@@ -2,7 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/computer-science/</id>
     <title>Quanta: Computer Science</title>
-    <updated>2021-11-16T18:03:08.891Z</updated>
+    <updated>2021-11-17T05:47:41.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.quantamagazine.org/computer-science/favicon.ico</icon>
+    <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[How Quantum Computers Will Correct Their Errors]]></title>
+        <id>https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/</id>
+        <link href="https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/"/>
+        <updated>2021-11-17T05:47:32.050Z</updated>
+        <content type="html"><![CDATA[Quantum bits are fussy and fragile. Useful quantum computers will need to use an error-correction technique like the one that was recently demonstrated on a real machine.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions]]></title>
+        <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
+        <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
+        <updated>2021-11-17T05:47:32.050Z</updated>
+        <content type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Uselessness of Useful Knowledge]]></title>
+        <id>https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/</id>
+        <link href="https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/"/>
+        <updated>2021-11-17T05:47:32.050Z</updated>
+        <content type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuron Bursts Can Mimic Famous AI Learning Strategy]]></title>
+        <id>https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/</id>
+        <link href="https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/"/>
+        <updated>2021-11-17T05:47:32.053Z</updated>
+        <content type="html"><![CDATA[A new model of learning centers on bursts of neural activity that act as teaching signals — approximating backpropagation, the algorithm behind learning in AI.]]></content>
+    </entry>
 </feed>

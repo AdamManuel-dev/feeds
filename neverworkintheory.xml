@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-11-16T18:03:08.889Z</updated>
+    <updated>2021-11-17T05:47:41.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-11-08: BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes]]></title>
-        <id>https://neverworkintheory.org/2021/11/08/my-kingdom-for-a-dataset.html</id>
-        <link href="https://neverworkintheory.org/2021/11/08/my-kingdom-for-a-dataset.html"/>
-        <updated>2021-11-10T17:49:50.163Z</updated>
-        <content type="html"><![CDATA[A dataset! A dataset! My kingdom for a dataset! The sentiment behind the King Richard's famous cries is perhaps shared, in a different context, by contemporary researchers who have their sights set on developing bug detection or automatic repair systems. Luckily Tomassi2019 have put shovels in the ground and made impressive headway towards a hyper-scale, real-world, current, and reproducible dataset of bugs and their corresponding fixes. The progress takes the form of BugSwarm, a continuous integration (CI) harvesting toolkit that aims to take failed CI pipelines and turn them into data samples. Before BugSwarm, the datasets that were available for...]]></content>
+        <title type="html"><![CDATA[2021-11-16: On Using Stack Overflow Comment-Edit Pairs to Recommend Code Maintenance Changes]]></title>
+        <id>https://neverworkintheory.org/2021/11/16/using-so-comment-edit-pairs.html</id>
+        <link href="https://neverworkintheory.org/2021/11/16/using-so-comment-edit-pairs.html"/>
+        <updated>2021-11-17T05:47:18.954Z</updated>
+        <content type="html"><![CDATA[Have you ever developed any software without the help of Stack Overflow? In just 13 years, Stack Overflow has become an essential platform to get programming help. It has also become a source of data for researchers to solve many software engineering problems. However, Tang2021 are the first to evaluate whether Stack Overflow comments and edits can help solve the software maintenance problems. Their main goal was to find out how useful Stack Overflow comment-edit pairs are in making tools for code maintenance tasks like program repair and code recommender systems. The authors used SOTorrent to automatically mine edits of...]]></content>
     </entry>
 </feed>
