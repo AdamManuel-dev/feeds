@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-11-17T05:47:41.505Z</updated>
+    <updated>2021-11-18T18:02:40.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-11-16: On Using Stack Overflow Comment-Edit Pairs to Recommend Code Maintenance Changes]]></title>
-        <id>https://neverworkintheory.org/2021/11/16/using-so-comment-edit-pairs.html</id>
-        <link href="https://neverworkintheory.org/2021/11/16/using-so-comment-edit-pairs.html"/>
-        <updated>2021-11-17T05:47:18.954Z</updated>
-        <content type="html"><![CDATA[Have you ever developed any software without the help of Stack Overflow? In just 13 years, Stack Overflow has become an essential platform to get programming help. It has also become a source of data for researchers to solve many software engineering problems. However, Tang2021 are the first to evaluate whether Stack Overflow comments and edits can help solve the software maintenance problems. Their main goal was to find out how useful Stack Overflow comment-edit pairs are in making tools for code maintenance tasks like program repair and code recommender systems. The authors used SOTorrent to automatically mine edits of...]]></content>
+        <title type="html"><![CDATA[2021-11-18: SOAR: A Synthesis Approach for Data Science API Refactoring]]></title>
+        <id>https://neverworkintheory.org/2021/11/18/synthesis-approach-for-data-science-api-refactoring.html</id>
+        <link href="https://neverworkintheory.org/2021/11/18/synthesis-approach-for-data-science-api-refactoring.html"/>
+        <updated>2021-11-18T18:02:23.060Z</updated>
+        <content type="html"><![CDATA[Everything that has been constructed eventually needs maintenance: homes, parks, offices---and code. Refactoring is one way programmers do this. Though the idea is simple, it can quickly become a programmer's nightmare, as manual refactoring is tedious and error-prone. Ni2021 introduce an automated refactoring technique called SOAR that combines natural language processing with program synthesis to automatically migrate and refactor between different versions of APIs. It begins by constructing an API matching model based on available documentation for the source and target libraries to find potential replacement calls for each API call in the source program. It then employs program synthesis...]]></content>
     </entry>
 </feed>
