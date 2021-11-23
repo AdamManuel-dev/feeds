@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-11-23T05:38:04.267Z</updated>
+    <updated>2021-11-23T17:42:59.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-11-18: SOAR: A Synthesis Approach for Data Science API Refactoring]]></title>
-        <id>https://neverworkintheory.org/2021/11/18/synthesis-approach-for-data-science-api-refactoring.html</id>
-        <link href="https://neverworkintheory.org/2021/11/18/synthesis-approach-for-data-science-api-refactoring.html"/>
-        <updated>2021-11-18T18:02:23.060Z</updated>
-        <content type="html"><![CDATA[Everything that has been constructed eventually needs maintenance: homes, parks, offices---and code. Refactoring is one way programmers do this. Though the idea is simple, it can quickly become a programmer's nightmare, as manual refactoring is tedious and error-prone. Ni2021 introduce an automated refactoring technique called SOAR that combines natural language processing with program synthesis to automatically migrate and refactor between different versions of APIs. It begins by constructing an API matching model based on available documentation for the source and target libraries to find potential replacement calls for each API call in the source program. It then employs program synthesis...]]></content>
+        <title type="html"><![CDATA[2021-11-18: Googling for Software Development: What Developers Search For and What They Find]]></title>
+        <id>https://neverworkintheory.org/2021/11/18/googling-for-software-development.html</id>
+        <link href="https://neverworkintheory.org/2021/11/18/googling-for-software-development.html"/>
+        <updated>2021-11-23T17:42:44.654Z</updated>
+        <content type="html"><![CDATA[Searching online serves as a base to solve problems and has become an inseparable part of our regular life. Developers in the software industry also rely on extracting relevant information from Google and other search engines to maximize their efficiency. A comprehensive illustration of the web-search queries from the perspective of software developers is provided in Hora2021a. By analyzing 1.3M search queries from developers, the authors found that: Almost half of the queries (54.5%) from the developer’s end refer to programming languages and software technologies. Queries are short and are mostly focused on searching APIs and for code examples that...]]></content>
     </entry>
 </feed>

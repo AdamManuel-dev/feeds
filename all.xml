@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-23T05:38:04.276Z</updated>
+    <updated>2021-11-23T17:42:59.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[What’s Really New with NewSQL? (Distributed Systems Blog)]]></title>
@@ -75,11 +75,11 @@
         <content type="html"><![CDATA[Michael Whittaker , Joe Hellerstein's PhD student at UC Berkeley, has recently defended his PhD thesis on Compartmentalized Paxos . The thesis deconstructs Paxos and shows ways to reconstruct it to be more scalable by individually focusing on each component/role in Paxos. It is a simple but effective trick. Even after you learn the trick, you still keep getting surprised by how effective it is. When I say Michael defended his thesis, I am speaking loosely. Michael was not defensive about anything. He didn't have to be, his work spoke for him. Just watch his PhD presentation and you will understand what I mean. &nbsp;Michael has a great talent for explaining things simply. Unfortunately this is an underappreciated talent, especially in academia. This may make it look too easy and effortless, and like you didn't do sophisticated work. This dude did not even prepare presentation slides for his PhD thesis (the heresy!), and winged it on the fly by drawing his protocols on an iPad. H]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021-11-18: SOAR: A Synthesis Approach for Data Science API Refactoring (Most Recent It Will Never Work in Theory)]]></title>
-        <id>https://neverworkintheory.org/2021/11/18/synthesis-approach-for-data-science-api-refactoring.html</id>
-        <link href="https://neverworkintheory.org/2021/11/18/synthesis-approach-for-data-science-api-refactoring.html"/>
-        <updated>2021-11-18T18:02:23.060Z</updated>
-        <content type="html"><![CDATA[Everything that has been constructed eventually needs maintenance: homes, parks, offices---and code. Refactoring is one way programmers do this. Though the idea is simple, it can quickly become a programmer's nightmare, as manual refactoring is tedious and error-prone. Ni2021 introduce an automated refactoring technique called SOAR that combines natural language processing with program synthesis to automatically migrate and refactor between different versions of APIs. It begins by constructing an API matching model based on available documentation for the source and target libraries to find potential replacement calls for each API call in the source program. It then employs program synthesis...]]></content>
+        <title type="html"><![CDATA[2021-11-18: Googling for Software Development: What Developers Search For and What They Find (Most Recent It Will Never Work in Theory)]]></title>
+        <id>https://neverworkintheory.org/2021/11/18/googling-for-software-development.html</id>
+        <link href="https://neverworkintheory.org/2021/11/18/googling-for-software-development.html"/>
+        <updated>2021-11-23T17:42:44.654Z</updated>
+        <content type="html"><![CDATA[Searching online serves as a base to solve problems and has become an inseparable part of our regular life. Developers in the software industry also rely on extracting relevant information from Google and other search engines to maximize their efficiency. A comprehensive illustration of the web-search queries from the perspective of software developers is provided in Hora2021a. By analyzing 1.3M search queries from developers, the authors found that: Almost half of the queries (54.5%) from the developer’s end refer to programming languages and software technologies. Queries are short and are mostly focused on searching APIs and for code examples that...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Hot Dogs Can Teach Us About Number Theory (Quanta: Mathematics)]]></title>
