@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/physics/</id>
     <title>Quanta: Physics</title>
-    <updated>2021-11-21T17:43:08.750Z</updated>
+    <updated>2021-11-23T05:38:04.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The Algorithm That Lets Particle Physicists Count Higher Than Two]]></title>
+        <id>https://www.quantamagazine.org/the-algorithm-that-lets-particle-physicists-count-higher-than-two-20211122/</id>
+        <link href="https://www.quantamagazine.org/the-algorithm-that-lets-particle-physicists-count-higher-than-two-20211122/"/>
+        <updated>2021-11-23T05:38:03.490Z</updated>
+        <content type="html"><![CDATA[Through his encyclopedic study of the electron, an obscure figure named Stefano Laporta found a handle on the subatomic world’s fearsome complexity. His algorithm has swept the field.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Quantum Computers Will Correct Their Errors]]></title>
         <id>https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/cosmologists-close-in-on-logical-laws-for-the-big-bang-20211110/"/>
         <updated>2021-11-10T17:50:16.574Z</updated>
         <content type="html"><![CDATA[Physicists are translating commonsense principles into strict mathematical constraints on how our universe must have behaved at the beginning of time.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Revise Recipe for Building a Rocky Planet Like Earth]]></title>
-        <id>https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/</id>
-        <link href="https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/"/>
-        <updated>2021-11-03T17:54:51.286Z</updated>
-        <content type="html"><![CDATA[Over the past decade, researchers have completely rewritten the story of how gas giants such as Jupiter and Saturn form. They’re now debating whether the same process might hold for Earth.]]></content>
     </entry>
 </feed>
