@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-11-24T05:47:58.905Z</updated>
+    <updated>2021-11-24T17:44:30.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-11-18: Googling for Software Development: What Developers Search For and What They Find]]></title>
-        <id>https://neverworkintheory.org/2021/11/18/googling-for-software-development.html</id>
-        <link href="https://neverworkintheory.org/2021/11/18/googling-for-software-development.html"/>
-        <updated>2021-11-23T17:42:44.654Z</updated>
-        <content type="html"><![CDATA[Searching online serves as a base to solve problems and has become an inseparable part of our regular life. Developers in the software industry also rely on extracting relevant information from Google and other search engines to maximize their efficiency. A comprehensive illustration of the web-search queries from the perspective of software developers is provided in Hora2021a. By analyzing 1.3M search queries from developers, the authors found that: Almost half of the queries (54.5%) from the developer’s end refer to programming languages and software technologies. Queries are short and are mostly focused on searching APIs and for code examples that...]]></content>
+        <title type="html"><![CDATA[2021-11-23: The Seven Sins: Security Smells in Infrastructure as Code Scripts]]></title>
+        <id>https://neverworkintheory.org/2021/11/23/security-smells-in-infrastructure-as-code-scripts.html</id>
+        <link href="https://neverworkintheory.org/2021/11/23/security-smells-in-infrastructure-as-code-scripts.html"/>
+        <updated>2021-11-24T17:44:16.701Z</updated>
+        <content type="html"><![CDATA[Developers use infrastructure as code (IaC) scripts to provision servers and development environments. As with any code, they may unintentionally create security holes while writing these scripts. The purpose of Rahman2019 is to help them avoid doing this by analyzing real IaC scripts to identify security smells and developing a static analysis tool to identify occurrences. The authors started by collecting 1726 Puppet scripts from 74 repositories belonging to Mozilla, OpenStack, and Wikimedia Commons. By performing a qualitative analysis on these scripts, the authors identified seven smells: admin by default empty password hard-coded secret invalid IP address binding suspicious comment...]]></content>
     </entry>
 </feed>

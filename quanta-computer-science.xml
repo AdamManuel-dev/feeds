@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/computer-science/</id>
     <title>Quanta: Computer Science</title>
-    <updated>2021-11-24T05:47:58.910Z</updated>
+    <updated>2021-11-24T17:44:30.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Researchers Defeat Randomness to Create Ideal Code]]></title>
+        <id>https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/</id>
+        <link href="https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/"/>
+        <updated>2021-11-24T17:44:24.746Z</updated>
+        <content type="html"><![CDATA[By carefully constructing a multidimensional and well-connected graph, a team of researchers has finally created a long-sought locally testable code that can immediately betray whether it’s been corrupted.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Quantum Computers Will Correct Their Errors]]></title>
         <id>https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/"/>
         <updated>2021-11-17T05:47:32.050Z</updated>
         <content type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neuron Bursts Can Mimic Famous AI Learning Strategy]]></title>
-        <id>https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/</id>
-        <link href="https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/"/>
-        <updated>2021-11-17T05:47:32.053Z</updated>
-        <content type="html"><![CDATA[A new model of learning centers on bursts of neural activity that act as teaching signals — approximating backpropagation, the algorithm behind learning in AI.]]></content>
     </entry>
 </feed>

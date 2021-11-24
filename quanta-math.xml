@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/mathematics/</id>
     <title>Quanta: Mathematics</title>
-    <updated>2021-11-24T05:47:58.907Z</updated>
+    <updated>2021-11-24T17:44:30.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Researchers Defeat Randomness to Create Ideal Code]]></title>
+        <id>https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/</id>
+        <link href="https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/"/>
+        <updated>2021-11-24T17:44:20.767Z</updated>
+        <content type="html"><![CDATA[By carefully constructing a multidimensional and well-connected graph, a team of researchers has finally created a long-sought locally testable code that can immediately betray whether it’s been corrupted.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Hot Dogs Can Teach Us About Number Theory]]></title>
         <id>https://www.quantamagazine.org/the-secret-math-of-hot-dogs-and-buns-20211118/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/"/>
         <updated>2021-11-11T17:55:39.984Z</updated>
         <content type="html"><![CDATA[In nonreciprocal systems, where Newton’s third law falls apart, “exceptional points” are helping researchers understand phase transitions and possibly other phenomena.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Find Structure in Biased Polynomials]]></title>
-        <id>https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/</id>
-        <link href="https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/"/>
-        <updated>2021-11-09T18:05:46.439Z</updated>
-        <content type="html"><![CDATA[New work establishes a tighter connection between the rank of a polynomial and the extent to which it favors particular outputs.]]></content>
     </entry>
 </feed>
