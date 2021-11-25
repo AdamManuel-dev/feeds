@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/mathematics/</id>
     <title>Quanta: Mathematics</title>
-    <updated>2021-11-24T17:44:30.193Z</updated>
+    <updated>2021-11-25T05:48:42.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Why e, the Transcendental Math Constant, Is Just the Best]]></title>
+        <id>https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/</id>
+        <link href="https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/"/>
+        <updated>2021-11-25T05:48:26.440Z</updated>
+        <content type="html"><![CDATA[The solution to our puzzle about Euler’s number explains why <span style="font-style: initial;">e</span> pops up in situations that involve optimality.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Defeat Randomness to Create Ideal Code]]></title>
         <id>https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/ana-caraiani-delights-in-building-mathematical-bridges-20211117/"/>
         <updated>2021-11-18T18:02:27.900Z</updated>
         <content type="html"><![CDATA[Ana Caraiani seeks to unify mathematics through her work on the ambitious Langlands program.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Theory for Systems That Defy Newton’s Third Law]]></title>
-        <id>https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/</id>
-        <link href="https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/"/>
-        <updated>2021-11-11T17:55:39.984Z</updated>
-        <content type="html"><![CDATA[In nonreciprocal systems, where Newton’s third law falls apart, “exceptional points” are helping researchers understand phase transitions and possibly other phenomena.]]></content>
     </entry>
 </feed>
