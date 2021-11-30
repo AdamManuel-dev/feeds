@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-29T17:45:39.211Z</updated>
+    <updated>2021-11-30T05:47:15.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Chess (Distributed Systems Blog)]]></title>
+        <id>https://muratbuffalo.blogspot.com/2021/11/chess.html</id>
+        <link href="https://muratbuffalo.blogspot.com/2021/11/chess.html"/>
+        <updated>2021-11-30T03:09:00.000Z</updated>
+        <content type="html"><![CDATA[World chess championship is on.  Magnus is the clear favorite, but Nepomniachtchi is coming strong. It is a lot of fun. I haven't been posting for sometime. And this seems like a good time to talk about chess. My journey picking up on chess, again As a kid I wasn't much interested in chess. My younger brother was into chess, he would buy books to review grandmasters' games. I didn't go further than playing casual games with him. Maybe it was the quarantine that triggered this, but in the last year I started playing some chess on the smartphone. I had an Android phone for the last 3 years, and I used a random chess app downloaded at Play Store. I thought the app was very neat because it let me play against the computer at different levels and it allowed me to go back and try different things. Like Git, you know. The app also suggested me hints. I thought this was a dope way to improve one's chess skills. Little did I know, I was just scratching the surface. Three yea]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s Really New with NewSQL? (Distributed Systems Blog)]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/11/whats-really-new-with-newsql.html</id>
@@ -66,13 +73,6 @@
         <link href="https://muratbuffalo.blogspot.com/2021/09/book-review-fountainhead.html"/>
         <updated>2021-09-28T02:33:00.000Z</updated>
         <content type="html"><![CDATA[I had been hearing a lot of negative comments about Fountainhead on Twitter. These comments seemed politically motivated, how the book is a dumb libertarian propaganda. I had to check the book out myself to see what the deal is.&nbsp; The book  started out well. I was surprised to see that, first this is a novel, and second this is an easy read. I was waiting an impenetrable intellectual literary text. The book turned out to readable and initially charming, even though it was written in 1940.&nbsp; The book felt like "The Goal" novel , communicating a concept/idea in story form. The main guy is this guy, Howard Roark, he is the best architect ever. Rather, he is the God of Architecture. He is architecture in flesh. He is like the best architect ever. The book is not at all subtle about this. He is 1000% dedicated to his craft, and he is the best ever, and he brings out his uncompromised gift in every building he designs. He is uncorruptable and willing to suffer for his art. The first]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matchmaker Paxos: A Reconfigurable Consensus Protocol (Distributed Systems Blog)]]></title>
-        <id>https://muratbuffalo.blogspot.com/2020/05/matchmaker-paxos-reconfigurable.html</id>
-        <link href="https://muratbuffalo.blogspot.com/2020/05/matchmaker-paxos-reconfigurable.html"/>
-        <updated>2021-08-28T11:13:00.000Z</updated>
-        <content type="html"><![CDATA[Michael Whittaker , Joe Hellerstein's PhD student at UC Berkeley, has recently defended his PhD thesis on Compartmentalized Paxos . The thesis deconstructs Paxos and shows ways to reconstruct it to be more scalable by individually focusing on each component/role in Paxos. It is a simple but effective trick. Even after you learn the trick, you still keep getting surprised by how effective it is. When I say Michael defended his thesis, I am speaking loosely. Michael was not defensive about anything. He didn't have to be, his work spoke for him. Just watch his PhD presentation and you will understand what I mean. &nbsp;Michael has a great talent for explaining things simply. Unfortunately this is an underappreciated talent, especially in academia. This may make it look too easy and effortless, and like you didn't do sophisticated work. This dude did not even prepare presentation slides for his PhD thesis (the heresy!), and winged it on the fly by drawing his protocols on an iPad. H]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-11-29: Investigating Next Steps in Static API-Misuse Detection (Most Recent It Will Never Work in Theory)]]></title>
