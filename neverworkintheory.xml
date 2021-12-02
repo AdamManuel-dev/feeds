@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-12-02T05:59:05.818Z</updated>
+    <updated>2021-12-02T17:43:21.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-11-29: Investigating Next Steps in Static API-Misuse Detection]]></title>
-        <id>https://neverworkintheory.org/2021/11/29/next-steps-in-static-api-misuse-detection.html</id>
-        <link href="https://neverworkintheory.org/2021/11/29/next-steps-in-static-api-misuse-detection.html"/>
-        <updated>2021-11-29T17:45:10.756Z</updated>
-        <content type="html"><![CDATA[Developers often use APIs to access data or web applications, but misuse of APIs can lead to data loss or software crashes. Although several API misuse detectors exist, most of them suffer from low precision and recall. To address this, Sven2019 proposes MUDETECT, an API misuse detector which builds on the strengths and addresses many of the weaknesses of previous detectors. It has 2X higher recall than previous detectors and 2.5X higher precision; moreover, it can work in cross-project settings and mines patterns across projects rather than from only the target project. MUDETECT begins by encoding API usages as API-Usage...]]></content>
+        <title type="html"><![CDATA[2021-12-02: Deep Code Search]]></title>
+        <id>https://neverworkintheory.org/2021/12/02/deep-code-search.html</id>
+        <link href="https://neverworkintheory.org/2021/12/02/deep-code-search.html"/>
+        <updated>2021-12-02T17:43:03.502Z</updated>
+        <content type="html"><![CDATA[Kim is a developer, and while implementing a new feature, they remember that they wrote something similar in another project. They open that project and starts searching for the code; It takes some time, but finding that code makes their current task easier. They wonder if the time spent searching was worth it, because they might have taken the same amount of time to reimplement the feature. To help developers with tasks like this, Gu2018 proposes a tool called DeepCS that takes natural language queries and searches for relevant code in a large codebase. The CODEnn model that DeepCS uses...]]></content>
     </entry>
 </feed>
