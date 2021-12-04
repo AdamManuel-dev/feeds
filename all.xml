@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-02T17:43:26.305Z</updated>
+    <updated>2021-12-04T05:38:11.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chess (Distributed Systems Blog)]]></title>
@@ -113,7 +113,7 @@
         <title type="html"><![CDATA[Researchers Defeat Randomness to Create Ideal Code (Quanta: Computer Science)]]></title>
         <id>https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/</id>
         <link href="https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/"/>
-        <updated>2021-12-02T17:43:14.383Z</updated>
+        <updated>2021-12-02T17:43:09.476Z</updated>
         <content type="html"><![CDATA[By carefully constructing a multidimensional and well-connected graph, a team of researchers has finally created a long-sought locally testable code that can immediately betray whether it’s been corrupted.]]></content>
     </entry>
     <entry>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Webb Space Telescope Will Rewrite Cosmic History. If It Works. (Quanta: Physics)]]></title>
+        <id>https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/</id>
+        <link href="https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/"/>
+        <updated>2021-12-04T05:38:10.829Z</updated>
+        <content type="html"><![CDATA[The James Webb Space Telescope has the potential to rewrite the history of the cosmos and reshape humanity’s position within it. But first, a lot of things have to work just right.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Simulators Create a Totally New Phase of Matter (Quanta: Physics)]]></title>
+        <id>https://www.quantamagazine.org/quantum-simulators-create-a-totally-new-phase-of-matter-20211202/</id>
+        <link href="https://www.quantamagazine.org/quantum-simulators-create-a-totally-new-phase-of-matter-20211202/"/>
+        <updated>2021-12-04T05:38:10.829Z</updated>
+        <content type="html"><![CDATA[One of the first goals of quantum computing has been to recreate bizarre quantum systems that can’t be studied in an ordinary computer. A dark-horse quantum simulator has now done just that.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Algorithm That Lets Particle Physicists Count Higher Than Two (Quanta: Physics)]]></title>
         <id>https://www.quantamagazine.org/the-algorithm-that-lets-particle-physicists-count-higher-than-two-20211122/</id>
         <link href="https://www.quantamagazine.org/the-algorithm-that-lets-particle-physicists-count-higher-than-two-20211122/"/>
@@ -148,21 +162,7 @@
         <title type="html"><![CDATA[How Quantum Computers Will Correct Their Errors (Quanta: Physics)]]></title>
         <id>https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/</id>
         <link href="https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/"/>
-        <updated>2021-12-02T17:43:20.599Z</updated>
+        <updated>2021-12-02T17:43:14.384Z</updated>
         <content type="html"><![CDATA[Quantum bits are fussy and fragile. Useful quantum computers will need to use an error-correction technique like the one that was recently demonstrated on a real machine.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Theory for Systems That Defy Newton’s Third Law (Quanta: Physics)]]></title>
-        <id>https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/</id>
-        <link href="https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/"/>
-        <updated>2021-12-02T17:43:20.604Z</updated>
-        <content type="html"><![CDATA[In nonreciprocal systems, where Newton’s third law falls apart, “exceptional points” are helping researchers understand phase transitions and possibly other phenomena.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laws of Logic Lead to New Restrictions on the Big Bang (Quanta: Physics)]]></title>
-        <id>https://www.quantamagazine.org/cosmologists-close-in-on-logical-laws-for-the-big-bang-20211110/</id>
-        <link href="https://www.quantamagazine.org/cosmologists-close-in-on-logical-laws-for-the-big-bang-20211110/"/>
-        <updated>2021-12-02T17:43:20.608Z</updated>
-        <content type="html"><![CDATA[Physicists are translating commonsense principles into strict mathematical constraints on how our universe must have behaved at the beginning of time.]]></content>
     </entry>
 </feed>
