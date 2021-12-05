@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-04T17:44:51.962Z</updated>
+    <updated>2021-12-05T05:57:41.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Graviton2 and Graviton3 (Distributed Systems Blog)]]></title>
+        <id>https://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html</id>
+        <link href="https://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html"/>
+        <updated>2021-12-04T21:46:00.000Z</updated>
+        <content type="html"><![CDATA[What do modern cloud workloads look like? And what does that have to do with new chip designs? I found these gems in Peter DeSantis's ReInvent20 and ReInvent21 talks. These talks are very informative and educational. Me likey! The speakers at ReInvent are not just introducing new products/services, but they are also explaining the thought processes behind them. To come up with this summary, I edited the YouTube video transcripts slightly (mostly shortening it). The presentation narratives have been really well planned, so this makes a good read I think. Graviton2 This part is from the ReInvent2020 talk from Peter DeSantis. &nbsp; Graviton2 is the best performing general purpose processor in our cloud by a wide margin. It also offers significantly lower cost. And it's also the most power efficient processor we've ever deployed. Our plan was to build a processor that was optimized for AWS and modern cloud workloads. But, what do modern cloud workloads look like? Let's start by]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chess (Distributed Systems Blog)]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/11/chess.html</id>
@@ -66,13 +73,6 @@
         <link href="https://muratbuffalo.blogspot.com/2021/10/using-lightweight-formal-methods-to.html"/>
         <updated>2021-10-02T23:01:00.000Z</updated>
         <content type="html"><![CDATA[This paper  comes from my colleagues at AWS S3 Automated Reasoning Group, detailing their experience applying lightweight formal methods to a new class of storage node developed for S3 storage backend. Lightweight formal methods emphasize automation and usability.  In this case, the approach involves three prongs: developing executable reference models as specifications, checking implementation conformance to those models, and building infrastructure to ensure the models remain accurate in the future. ShardStore ShardStore is a new append-only key-value storage node developed for AWS S3 backend. It is over 40K lines of Rust code. Shardstore is a log-structured merge tree (LSM tree) but with shard data stored outside the tree to reduce write amplification. ShardStore employs soft updates for avoiding the cost of redirecting writes through a write-ahead log while still being crash consistent. A soft updates implementation ensures that only writes whose dependencies are persisted are sent]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book review: Fountainhead (Distributed Systems Blog)]]></title>
-        <id>https://muratbuffalo.blogspot.com/2021/09/book-review-fountainhead.html</id>
-        <link href="https://muratbuffalo.blogspot.com/2021/09/book-review-fountainhead.html"/>
-        <updated>2021-09-28T02:33:00.000Z</updated>
-        <content type="html"><![CDATA[I had been hearing a lot of negative comments about Fountainhead on Twitter. These comments seemed politically motivated, how the book is a dumb libertarian propaganda. I had to check the book out myself to see what the deal is.&nbsp; The book  started out well. I was surprised to see that, first this is a novel, and second this is an easy read. I was waiting an impenetrable intellectual literary text. The book turned out to readable and initially charming, even though it was written in 1940.&nbsp; The book felt like "The Goal" novel , communicating a concept/idea in story form. The main guy is this guy, Howard Roark, he is the best architect ever. Rather, he is the God of Architecture. He is architecture in flesh. He is like the best architect ever. The book is not at all subtle about this. He is 1000% dedicated to his craft, and he is the best ever, and he brings out his uncompromised gift in every building he designs. He is uncorruptable and willing to suffer for his art. The first]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-12-02: Deep Code Search (Most Recent It Will Never Work in Theory)]]></title>
