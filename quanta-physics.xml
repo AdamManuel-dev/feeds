@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/physics/</id>
     <title>Quanta: Physics</title>
-    <updated>2021-12-12T18:04:24.889Z</updated>
+    <updated>2021-12-13T17:45:09.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Cosmologists Parry Attacks on the Vaunted Cosmological Principle]]></title>
+        <id>https://www.quantamagazine.org/giant-arc-of-galaxies-puts-basic-cosmology-under-scrutiny-20211213/</id>
+        <link href="https://www.quantamagazine.org/giant-arc-of-galaxies-puts-basic-cosmology-under-scrutiny-20211213/"/>
+        <updated>2021-12-13T17:45:08.121Z</updated>
+        <content type="html"><![CDATA[A central pillar of cosmology — the universe is the same everywhere and in all directions — is surviving a storm of possible evidence against it.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gravitational Waves Should Permanently Distort Space-Time]]></title>
         <id>https://www.quantamagazine.org/gravitational-waves-should-permanently-distort-space-time-20211208/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/quantum-simulators-create-a-totally-new-phase-of-matter-20211202/"/>
         <updated>2021-12-04T05:38:10.829Z</updated>
         <content type="html"><![CDATA[One of the first goals of quantum computing has been to recreate bizarre quantum systems that can’t be studied in an ordinary computer. A dark-horse quantum simulator has now done just that.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Algorithm That Lets Particle Physicists Count Higher Than Two]]></title>
-        <id>https://www.quantamagazine.org/the-algorithm-that-lets-particle-physicists-count-higher-than-two-20211122/</id>
-        <link href="https://www.quantamagazine.org/the-algorithm-that-lets-particle-physicists-count-higher-than-two-20211122/"/>
-        <updated>2021-12-02T17:43:20.596Z</updated>
-        <content type="html"><![CDATA[Through his encyclopedic study of the electron, an obscure figure named Stefano Laporta found a handle on the subatomic world’s fearsome complexity. His algorithm has swept the field.]]></content>
     </entry>
 </feed>

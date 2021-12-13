@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neverworkintheory.org/</id>
     <title>Most Recent It Will Never Work in Theory</title>
-    <updated>2021-12-12T18:04:24.893Z</updated>
+    <updated>2021-12-13T17:45:09.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://neverworkintheory.org/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021-12-02: Deep Code Search]]></title>
-        <id>https://neverworkintheory.org/2021/12/02/deep-code-search.html</id>
-        <link href="https://neverworkintheory.org/2021/12/02/deep-code-search.html"/>
-        <updated>2021-12-02T17:43:03.502Z</updated>
-        <content type="html"><![CDATA[Kim is a developer, and while implementing a new feature, they remember that they wrote something similar in another project. They open that project and starts searching for the code; It takes some time, but finding that code makes their current task easier. They wonder if the time spent searching was worth it, because they might have taken the same amount of time to reimplement the feature. To help developers with tasks like this, Gu2018 proposes a tool called DeepCS that takes natural language queries and searches for relevant code in a large codebase. The CODEnn model that DeepCS uses...]]></content>
+        <title type="html"><![CDATA[2021-12-13: Are Refactorings to Blame? An Empirical Study of Refactorings in Merge Conflicts]]></title>
+        <id>https://neverworkintheory.org/2021/12/13/refactorings-in-merge-conflicts.html</id>
+        <link href="https://neverworkintheory.org/2021/12/13/refactorings-in-merge-conflicts.html"/>
+        <updated>2021-12-13T17:44:53.392Z</updated>
+        <content type="html"><![CDATA[Merge conflicts are one of the biggest difficulties developers face when using separate development branches. Many developers believe that code refactoring makes the situation worse, but are the refactorings solely to blame? How big of a difference do they make when it comes to merge conflicts? Using data from roughly 3000 open-source Java software repositories, Mahmoudi2019 examined the association between merge conflicts and 15 prominent refactoring patterns, and at how difficult it is to settle refactoring-related disagreements. They used a tool called RefactoringMiner to detect refactorings and investigated the relationship between refactorings and merge conflicts; they also developed and presented...]]></content>
     </entry>
 </feed>
