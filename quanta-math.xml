@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/mathematics/</id>
     <title>Quanta: Mathematics</title>
-    <updated>2021-12-14T17:40:58.740Z</updated>
+    <updated>2021-12-15T17:45:20.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Mathematician Hurls Structure and Disorder Into Century-Old Problem]]></title>
+        <id>https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/</id>
+        <link href="https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/"/>
+        <updated>2021-12-15T17:45:10.169Z</updated>
+        <content type="html"><![CDATA[A new paper shows how to create longer disordered strings than mathematicians had thought possible, proving that a well-known recent conjecture is “spectacularly wrong.”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathematicians Transcend Geometric Theory of Motion]]></title>
         <id>https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/"/>
         <updated>2021-11-24T17:44:20.767Z</updated>
         <content type="html"><![CDATA[By carefully constructing a multidimensional and well-connected graph, a team of researchers has finally created a long-sought locally testable code that can immediately betray whether it’s been corrupted.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Hot Dogs Can Teach Us About Number Theory]]></title>
-        <id>https://www.quantamagazine.org/the-secret-math-of-hot-dogs-and-buns-20211118/</id>
-        <link href="https://www.quantamagazine.org/the-secret-math-of-hot-dogs-and-buns-20211118/"/>
-        <updated>2021-11-18T18:02:27.900Z</updated>
-        <content type="html"><![CDATA[The Chinese remainder theorem is an ancient and powerful extension of the simple math of least common multiples.]]></content>
     </entry>
 </feed>
