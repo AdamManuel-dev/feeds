@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muratbuffalo.blogspot.com/</id>
     <title>Distributed Systems Blog</title>
-    <updated>2021-12-15T17:45:20.778Z</updated>
+    <updated>2021-12-16T05:57:50.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://muratbuffalo.blogspot.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[A read-only transaction anomaly under snapshot isolation]]></title>
+        <id>https://muratbuffalo.blogspot.com/2021/12/a-read-only-transaction-anomaly-under.html</id>
+        <link href="https://muratbuffalo.blogspot.com/2021/12/a-read-only-transaction-anomaly-under.html"/>
+        <updated>2021-12-16T01:55:00.000Z</updated>
+        <content type="html"><![CDATA[This paper, from Sigmod 2004,  is short and sweet. Under snapshot isolation level, it shows a surprising example of a transaction history where the read-only transaction triggers a serialization anomaly, even when the update transactions are serializable. This is surprising because it was assumed that, under snapshot isolation, read-only transactions always execute serializably without ever needing to wait or abort because of concurrent update transactions. Background Snapshot isolation is an attractive consistency model for transactions.&nbsp; Wikipedia has a very nice summary: In databases, and transaction processing (transaction management), snapshot isolation is a guarantee that all reads made in a transaction will see a consistent snapshot of the database (in practice it reads the last committed values that existed at the time it started), and the transaction itself will successfully commit only if no updates it has made conflict with any concurrent updates made since that snapshot. Sn]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humans of Computer Systems: Ted]]></title>
+        <id>https://muratbuffalo.blogspot.com/2021/12/humans-of-computer-systems-ted.html</id>
+        <link href="https://muratbuffalo.blogspot.com/2021/12/humans-of-computer-systems-ted.html"/>
+        <updated>2021-12-15T17:59:00.000Z</updated>
+        <content type="html"><![CDATA[Programming How did you learn to program? Through a project in high school. &nbsp; &nbsp; Tell us about the most interesting/significant piece of code you wrote. &nbsp; Electronic mail system. Who did you learn most from about computer systems? &nbsp; Edsger Dijkstra https://www.cs.utexas.edu/users/EWD/ &nbsp; &nbsp; What is the best code you have seen? &nbsp; IBM 360 operating system &nbsp; &nbsp; &nbsp; What do you believe are the most important skills to be successful in your field? &nbsp; &nbsp; There are many paths to success, and a variety of skills to get there - no MOST IMPORTANT &nbsp; &nbsp; &nbsp; What quality or ability do you value most in a computer systems person? The ability to explain. Personal Which of your work/code/accomplishments are you most proud of? Read, eg, Erich Fromm - pride is not a quality that should be considered What comes to you easy that others find hard? What are your superpowers? Recursion is natural to me. What was a blessing in disguise for you? What seemed like a failure at the time but led to something better later]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Graviton2 and Graviton3]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html</id>
@@ -60,19 +74,5 @@
         <link href="https://muratbuffalo.blogspot.com/2021/10/sosp-conference-day-1.html"/>
         <updated>2021-10-28T12:59:00.000Z</updated>
         <content type="html"><![CDATA[SOSP, along with OSDI, is the premiere conference in computer systems. SOSP was held biannually; I had attended SOSP19 in person, and shared  notes  and paper summaries  from that.&nbsp; This year SOSP is virtual, which made it a lot easier to travel to. It is nice attending the conference from the convenience of your home. The experience is not too inferior to physical conference attending if you take the convenience factor into account.&nbsp; Here are some notes from SOSP21. If you find and interesting paper, you can dig in, because: All SOSP papers are available as open access All the presentations are also available on YouTube Opening The conference opened with announcements from program committee (PC) chairs. SOSP21 had 348 submissions from 2078 authors, resulting on avg 6 authors per paper. 54 out of 348 papers are accepted. Reviews were conducted by 64 PC members, who produced 1500+ reviews. The trend is clear, the number of submissions are growing steeply.&nbsp; Last year OSDI had announced i]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linearizability]]></title>
-        <id>https://muratbuffalo.blogspot.com/2021/10/linearizability.html</id>
-        <link href="https://muratbuffalo.blogspot.com/2021/10/linearizability.html"/>
-        <updated>2021-10-07T02:02:00.000Z</updated>
-        <content type="html"><![CDATA[Distributed/networked systems employ data replication to achieve availability and scalability. Consistency  is concerned with the question of what should happen if a client modifies some data items and concurrently another client reads or modifies the same items possibly at a different replica. Linearizability is a strong form of consistency. (That is why it is also called as strong-consistency.) For a system to satisfy linearizability,&nbsp; each operation must appear (from client perspective) to occur at an instantaneous point between its start time (when the client submits it) and finish time (when the client receives the response), and&nbsp; execution at these instantaneous points should form a valid sequential execution (i.e., it should be as if operations are executed one at a time ---without concurrency, like they are being executed by a single node)&nbsp; Let's simplify things further. In practice, consistency is often defined for systems that have two very specific operations: read and w]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3 (SOSP21)]]></title>
-        <id>https://muratbuffalo.blogspot.com/2021/10/using-lightweight-formal-methods-to.html</id>
-        <link href="https://muratbuffalo.blogspot.com/2021/10/using-lightweight-formal-methods-to.html"/>
-        <updated>2021-10-02T23:01:00.000Z</updated>
-        <content type="html"><![CDATA[This paper  comes from my colleagues at AWS S3 Automated Reasoning Group, detailing their experience applying lightweight formal methods to a new class of storage node developed for S3 storage backend. Lightweight formal methods emphasize automation and usability.  In this case, the approach involves three prongs: developing executable reference models as specifications, checking implementation conformance to those models, and building infrastructure to ensure the models remain accurate in the future. ShardStore ShardStore is a new append-only key-value storage node developed for AWS S3 backend. It is over 40K lines of Rust code. Shardstore is a log-structured merge tree (LSM tree) but with shard data stored outside the tree to reduce write amplification. ShardStore employs soft updates for avoiding the cost of redirecting writes through a write-ahead log while still being crash consistent. A soft updates implementation ensures that only writes whose dependencies are persisted are sent]]></content>
     </entry>
 </feed>
