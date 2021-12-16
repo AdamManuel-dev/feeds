@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/computer-science/</id>
     <title>Quanta: Computer Science</title>
-    <updated>2021-12-16T05:57:50.648Z</updated>
+    <updated>2021-12-16T17:45:15.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[What Does It Mean for AI to Understand?]]></title>
+        <id>https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/</id>
+        <link href="https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/"/>
+        <updated>2021-12-16T17:45:10.080Z</updated>
+        <content type="html"><![CDATA[It’s simple enough for AI to seem to comprehend data, but devising a true test of a machine’s knowledge has proved difficult.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Researchers Fight Noise by Turning to Biology]]></title>
         <id>https://www.quantamagazine.org/ai-researchers-fight-noise-by-turning-to-biology-20211207/</id>
@@ -25,12 +32,5 @@
         <link href="https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/"/>
         <updated>2021-11-17T05:47:32.050Z</updated>
         <content type="html"><![CDATA[Quantum bits are fussy and fragile. Useful quantum computers will need to use an error-correction technique like the one that was recently demonstrated on a real machine.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions]]></title>
-        <id>https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/</id>
-        <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
-        <updated>2021-11-17T05:47:32.050Z</updated>
-        <content type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.]]></content>
     </entry>
 </feed>
