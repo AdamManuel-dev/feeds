@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muratbuffalo.blogspot.com/</id>
     <title>Distributed Systems Blog</title>
-    <updated>2021-12-16T17:45:15.443Z</updated>
+    <updated>2021-12-19T17:44:59.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://muratbuffalo.blogspot.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Learning a technical subject]]></title>
+        <id>https://muratbuffalo.blogspot.com/2021/12/learning-technical-subject.html</id>
+        <link href="https://muratbuffalo.blogspot.com/2021/12/learning-technical-subject.html"/>
+        <updated>2021-12-18T18:48:00.000Z</updated>
+        <content type="html"><![CDATA[I love learning.  I wanted to write about how I learn, so I can analyze if there is a method to this madness. I will first talk about what my learning process looks like in abstract terms, and then I'll give an analogy to make things more concrete and visual. &nbsp; Learning is a messy process for me I know some very clear thinkers. They are very organized and methodical. I am not like that. These tidy thinkers seem to learn a new subject quickly (and effortlessly) by studying the rules of the subject and then deriving everything about that subject from that set of rules. They speak in precise statements and have clear and hard-set opinions about the subject. They seem to thrive most in theoretical subjects. In my observation those tidy learners are in the minority. Maybe the tidy thinkers are able to pull this feat off because they come from a neighboring domain/subject and map the context there to this subject quickly. But, again from my experience, it doesn't feel like that. It s]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A read-only transaction anomaly under snapshot isolation]]></title>
         <id>https://muratbuffalo.blogspot.com/2021/12/a-read-only-transaction-anomaly-under.html</id>
@@ -67,12 +74,5 @@
         <link href="https://muratbuffalo.blogspot.com/2021/10/jon-howell-ama-at-sosp21-day-2.html"/>
         <updated>2021-10-28T13:14:00.000Z</updated>
         <content type="html"><![CDATA[&nbsp;There were several AMAs at SOSP21, where the attendees can ask questions. I really like Jon Howell 's AMA session. I asked two questions I was interested about learning.&nbsp;&nbsp; Why do you think verification is at a breakaway point now? What are the factors that make this the go-big moment? We are now figuring out how to make common problems cheap. Historically Coq proving was about being clever: do something not done before. Now we are focusing on how do we make the common stuff cheap. The Ironclad project  began when Rustan Leino  came to our team, and said I have a tool, let's use this tool. The Dafny demos were interesting to me. A red squiggly line showed a bug. When you give hint, the bug went away. It was a lightbulb moment. It took me extra line of code/explanation for me to get it. The verifier already got it. We had verification runouts in slicon valley,&nbsp; with tlc, tlaps and others. The verifier send back question mark, and we try to decode it, what we realize was, almost]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOSP21 conference (Day 1)]]></title>
-        <id>https://muratbuffalo.blogspot.com/2021/10/sosp-conference-day-1.html</id>
-        <link href="https://muratbuffalo.blogspot.com/2021/10/sosp-conference-day-1.html"/>
-        <updated>2021-10-28T12:59:00.000Z</updated>
-        <content type="html"><![CDATA[SOSP, along with OSDI, is the premiere conference in computer systems. SOSP was held biannually; I had attended SOSP19 in person, and shared  notes  and paper summaries  from that.&nbsp; This year SOSP is virtual, which made it a lot easier to travel to. It is nice attending the conference from the convenience of your home. The experience is not too inferior to physical conference attending if you take the convenience factor into account.&nbsp; Here are some notes from SOSP21. If you find and interesting paper, you can dig in, because: All SOSP papers are available as open access All the presentations are also available on YouTube Opening The conference opened with announcements from program committee (PC) chairs. SOSP21 had 348 submissions from 2078 authors, resulting on avg 6 authors per paper. 54 out of 348 papers are accepted. Reviews were conducted by 64 PC members, who produced 1500+ reviews. The trend is clear, the number of submissions are growing steeply.&nbsp; Last year OSDI had announced i]]></content>
     </entry>
 </feed>
