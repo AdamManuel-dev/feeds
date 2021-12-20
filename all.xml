@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AdamManuel-dev.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-20T05:49:13.764Z</updated>
+    <updated>2021-12-20T17:47:23.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Learning a technical subject (Distributed Systems Blog)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[Quantum bits are fussy and fragile. Useful quantum computers will need to use an error-correction technique like the one that was recently demonstrated on a real machine.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Detailed Footage Finally Reveals What Triggers Lightning (Quanta: Physics)]]></title>
+        <id>https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/</id>
+        <link href="https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/"/>
+        <updated>2021-12-20T17:47:23.008Z</updated>
+        <content type="html"><![CDATA[Scientists have never been able to adequately explain where lightning comes from. Now the first detailed observations of its emergence inside a cloud have exposed how electric fields grow strong enough to let bolts fly.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cosmologists Parry Attacks on the Vaunted Cosmological Principle (Quanta: Physics)]]></title>
         <id>https://www.quantamagazine.org/giant-arc-of-galaxies-puts-basic-cosmology-under-scrutiny-20211213/</id>
         <link href="https://www.quantamagazine.org/giant-arc-of-galaxies-puts-basic-cosmology-under-scrutiny-20211213/"/>
@@ -157,12 +164,5 @@
         <link href="https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/"/>
         <updated>2021-12-04T05:38:10.829Z</updated>
         <content type="html"><![CDATA[The James Webb Space Telescope has the potential to rewrite the history of the cosmos and reshape humanity’s position within it. But first, a lot of things have to work just right.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Simulators Create a Totally New Phase of Matter (Quanta: Physics)]]></title>
-        <id>https://www.quantamagazine.org/quantum-simulators-create-a-totally-new-phase-of-matter-20211202/</id>
-        <link href="https://www.quantamagazine.org/quantum-simulators-create-a-totally-new-phase-of-matter-20211202/"/>
-        <updated>2021-12-04T05:38:10.829Z</updated>
-        <content type="html"><![CDATA[One of the first goals of quantum computing has been to recreate bizarre quantum systems that can’t be studied in an ordinary computer. A dark-horse quantum simulator has now done just that.]]></content>
     </entry>
 </feed>
